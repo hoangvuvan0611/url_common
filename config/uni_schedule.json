@@ -3,5 +3,6 @@
   "filterStudentInfo": "https://daotao.vnua.edu.vn/api/dkmh/w-locsinhvieninfo",
   "filterImageStudent": "https://daotao.vnua.edu.vn/api/sms/w-locthongtinimagesinhvien?MaSV=",
   "filterScoreStudent": "https://daotao.vnua.edu.vn/api/srm/w-locdsdiemsinhvien?hien_thi_mon_theo_hkdk=false",
-  "filterScheduleTestStudent": "https://daotao.vnua.edu.vn/api/epm/w-locdslichthisvtheohocky"
+  "filterScheduleTestStudent": "https://daotao.vnua.edu.vn/api/epm/w-locdslichthisvtheohocky",
+  "filterScheduleSemesterStudent": "https://daotao.vnua.edu.vn/api/sch/w-locdstkbtuanusertheohocky"
 }
