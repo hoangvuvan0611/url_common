@@ -1,5 +1,6 @@
 {
   "tuitionFeeSemester": "https://daotao.vnua.edu.vn/api/rms/w-locdschitiethocphisvtheohocky",
   "filterStudentInfo": "https://daotao.vnua.edu.vn/api/dkmh/w-locsinhvieninfo",
-  "filterImageStudent": "https://daotao.vnua.edu.vn/api/sms/w-locthongtinimagesinhvien?MaSV="
+  "filterImageStudent": "https://daotao.vnua.edu.vn/api/sms/w-locthongtinimagesinhvien?MaSV=",
+  "filterScoreStudent": "https://daotao.vnua.edu.vn/api/srm/w-locdsdiemsinhvien?hien_thi_mon_theo_hkdk=false"
 }
