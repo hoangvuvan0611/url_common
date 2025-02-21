@@ -7,5 +7,7 @@
   "filterScheduleSemesterStudent": "https://daotao.vnua.edu.vn/api/sch/w-locdstkbtuanusertheohocky",
   "filterNews": "https://daotao.vnua.edu.vn/api/web/w-locdsbaidang",
   "login": "https://daotao.vnua.edu.vn/api/auth/login",
-  "filterSemesterUser": "https://daotao.vnua.edu.vn/api/sch/w-locdshockytkbuser"
+  "filterSemesterUser": "https://daotao.vnua.edu.vn/api/sch/w-locdshockytkbuser",
+  "userInfoIG": "https://anonyig.com/api/v1/instagram/userInfo",
+  "postInfoIg": "https://anonyig.com/api/v1/instagram/posts"
 }
