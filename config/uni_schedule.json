@@ -10,5 +10,6 @@
   "filterSemesterUser": "https://daotao.vnua.edu.vn/api/sch/w-locdshockytkbuser",
   "userInfoIG": "https://anonyig.com/api/v1/instagram/userInfo",
   "postInfoIg": "https://anonyig.com/api/v1/instagram/posts",
-  "storyIG": "https://igstories.snapfirecdn.com/GetStories"
+  "storyIG": "https://igstories.snapfirecdn.com/GetStories",
+  "getHighlight": "https://igstories.snapfirecdn.com/GetHighlights"
 }
