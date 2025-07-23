@@ -11,5 +11,7 @@
   "userInfoIG": "https://anonyig.com/api/v1/instagram/userInfo",
   "postInfoIg": "https://anonyig.com/api/v1/instagram/posts",
   "storyIG": "https://igstories.snapfirecdn.com/GetStories",
-  "getHighlight": "https://igstories.snapfirecdn.com/GetHighlights"
+  "getHighlight": "https://igstories.snapfirecdn.com/GetHighlights",
+  "generalAllTuitionSemester": "https://daotao.vnua.edu.vn/api/rms/w-locdstonghophocphisv",
+  "detailTuitionSemester": "https://daotao.vnua.edu.vn/api/rms/w-locdschitiethocphisvtheohocky"
 }
