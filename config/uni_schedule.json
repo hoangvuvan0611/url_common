@@ -6,7 +6,7 @@
   "filterScheduleTestStudent": "https://daotao.vnua.edu.vn/api/epm/w-locdslichthisvtheohocky",
   "filterScheduleSemesterStudent": "https://daotao.vnua.edu.vn/api/sch/w-locdstkbtuanusertheohocky",
   "filterNews": "https://daotao.vnua.edu.vn/api/web/w-locdsbaidang",
-  "login": "https://daotao.vnua.edu.vn/api/auth/login",
+  "login": "https://edustar.com.vn/UniScheduleService/auth/login",
   "filterSemesterUser": "https://daotao.vnua.edu.vn/api/sch/w-locdshockytkbuser",
   "userInfoIG": "https://anonyig.com/api/v1/instagram/userInfo",
   "postInfoIg": "https://anonyig.com/api/v1/instagram/posts",
@@ -15,3 +15,4 @@
   "generalAllTuitionSemester": "https://daotao.vnua.edu.vn/api/rms/w-locdstonghophocphisv",
   "detailTuitionSemester": "https://daotao.vnua.edu.vn/api/rms/w-locdschitiethocphisvtheohocky"
 }
+
