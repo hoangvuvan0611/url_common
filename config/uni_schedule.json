@@ -13,6 +13,10 @@
   "storyIG": "https://igstories.snapfirecdn.com/GetStories",
   "getHighlight": "https://igstories.snapfirecdn.com/GetHighlights",
   "generalAllTuitionSemester": "https://daotao.vnua.edu.vn/api/rms/w-locdstonghophocphisv",
-  "detailTuitionSemester": "https://daotao.vnua.edu.vn/api/rms/w-locdschitiethocphisvtheohocky"
+  "detailTuitionSemester": "https://daotao.vnua.edu.vn/api/rms/w-locdschitiethocphisvtheohocky",
+  "selfresetPassword": "https://daotao.vnua.edu.vn/api/auth/selfreset-password",
+  "forgetPassword": "https://daotao.vnua.edu.vn/api/auth/forget-password"
+  
 }
+
 
