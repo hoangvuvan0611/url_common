@@ -26,3 +26,10 @@
 
 #### Other people
 - https://giangtester.com/nhung-cuon-sach-da-va-dang-doc/
+
+
+
+### Google doc
+- [Effective java](https://docs.google.com/document/d/1JrKza36K-5QrthkMekR2BRT0_BSKieXyZziU5vsKUHw/edit?usp=sharing): 
+- [Memory Management in the Java HotSpot™ Virtual Machine](https://docs.google.com/document/d/1dm3NtZDAuQkG-kY7_23FgLQwZL6rubPrOLjPUwjInMA/edit?usp=sharing)
+- 
