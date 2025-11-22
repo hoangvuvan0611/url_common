@@ -6,6 +6,8 @@
 
 #### Java
 - Office document java: https://docs.oracle.com/javase/specs/
+- Java tutorial: https://jenkov.com/tutorials/java/main-method.html
+
 
 #### System Design
 - https://github.com/karanpratapsingh/system-design
