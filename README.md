@@ -16,6 +16,7 @@
 
 #### Common:
 - Document: https://github.com/wususu/effective-resourses/tree/master
+- https://github.com/GunterMueller/Books-3
 
 
 #### Other people
