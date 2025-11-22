@@ -14,3 +14,7 @@
 
 #### Common:
 - Document: https://github.com/wususu/effective-resourses/tree/master
+
+
+#### Other people
+- https://giangtester.com/nhung-cuon-sach-da-va-dang-doc/
