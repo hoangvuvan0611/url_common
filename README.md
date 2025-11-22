@@ -19,7 +19,8 @@
 #### Common:
 - Document: https://github.com/wususu/effective-resourses/tree/master
 - https://github.com/GunterMueller/Books-3
-
+- https://github.com/wususu/effective-resourses
+- https://github.com/Nitin96Bisht/Java-Books
 
 #### Other people
 - https://giangtester.com/nhung-cuon-sach-da-va-dang-doc/
