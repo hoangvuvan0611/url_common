@@ -16,8 +16,9 @@
   "detailTuitionSemester": "https://daotao.vnua.edu.vn/api/rms/w-locdschitiethocphisvtheohocky",
   "selfresetPassword": "https://daotao.vnua.edu.vn/api/auth/selfreset-password",
   "forgetPassword": "https://daotao.vnua.edu.vn/api/auth/forget-password",
-  "loginAPI": "https://unischedule.giavang.xyz/auth/loginAPI"
+  "loginAPI": "https://afood.fun/auth/loginAPI"
 }
+
 
 
 
