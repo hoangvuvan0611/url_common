@@ -9,6 +9,7 @@
   "login": "https://unischedule.giavang.xyz/auth/login",
   "checkAndSaveDeviceInfoLogin": "https://unischedule.giavang.xyz/auth/checkAndSaveDeviceInfoLogin",
   "checkAndDeleteDeviceInfoLogin": "https://unischedule.giavang.xyz/auth/checkAndDeleteDeviceInfoLogin",
+  "checkSendNotiFromAdminVnua": "https://unischedule.giavang.xyz/noti/checkSendNotiFromAdminVnua",
   "filterSemesterUser": "https://daotao.vnua.edu.vn/api/sch/w-locdshockytkbuser",
   "userInfoIG": "https://anonyig.com/api/v1/instagram/userInfo",
   "postInfoIg": "https://anonyig.com/api/v1/instagram/posts",
@@ -20,6 +21,7 @@
   "forgetPassword": "https://daotao.vnua.edu.vn/api/auth/forget-password",
   "loginAPI": "https://daotao.vnua.edu.vn/mobile/api/mobapi/login"
 }
+
 
 
 
