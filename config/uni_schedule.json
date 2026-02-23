@@ -20,8 +20,9 @@
   "selfresetPassword": "https://daotao.vnua.edu.vn/api/auth/selfreset-password",
   "forgetPassword": "https://daotao.vnua.edu.vn/api/auth/forget-password",
   "loginAPI": "https://daotao.vnua.edu.vn/mobile/api/mobapi/login",
-  "loginAPIV2": "https://unischedule.giavang.xyz/auth/loginAPIV2"
+  "loginAPIV2": "https://daotao.vnua.edu.vn/mobile/api/mobapi/login"
 }
+
 
 
 
