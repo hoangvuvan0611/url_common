@@ -9,6 +9,16 @@
       "androidStoreUrl": "https://play.google.com/store/apps/details?id=com.example.appa",
       "webUrl": "https://example.com/app-a",
       "enabled": true
+    },
+    {
+      "title": "Sổ chi tiêu",
+      "description": "Ứng dụng quản lý tài chính cá nhân",
+      "iconUrl": "https://drive.google.com/file/d/1xSm0CAVIYawI0_WWPdlAx7fyz7uFz7JP/view?usp=sharing",
+      "deepLink": "appa://home",
+      "iosStoreUrl": "https://apps.apple.com/app/id1234567890",
+      "androidStoreUrl": "https://play.google.com/store/apps/details?id=com.example.appa",
+      "webUrl": "https://example.com/app-a",
+      "enabled": true
     }
   ]
 }
