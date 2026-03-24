@@ -1,1 +1,21 @@
+{
+  "apps": [
+    {
+      "title": "Từ Điển EduStar",
+      "description": "Tra cứu từ điển tiếng Anh",
+      "iconUrl": "https://your-cdn.com/icons/dictionary.png",
+      "deepLink": "edustardict://open",
+      "webUrl": "https://edustar.com.vn/dictionary",
+      "enabled": true
+    },
+    {
+      "title": "VITC",
+      "description": "Trung tâm Tin học",
+      "iconUrl": "https://your-cdn.com/icons/vitc.png",
+      "deepLink": "",
+      "webUrl": "https://vitc.edu.vn",
+      "enabled": true
+    }
+  ]
+}
 
