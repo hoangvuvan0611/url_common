@@ -1,21 +1,14 @@
 {
   "apps": [
     {
-      "title": "Từ Điển EduStar",
-      "description": "Tra cứu từ điển tiếng Anh",
-      "iconUrl": "https://your-cdn.com/icons/dictionary.png",
-      "deepLink": "edustardict://open",
-      "webUrl": "https://edustar.com.vn/dictionary",
-      "enabled": true
-    },
-    {
-      "title": "VITC",
-      "description": "Trung tâm Tin học",
-      "iconUrl": "https://your-cdn.com/icons/vitc.png",
-      "deepLink": "",
-      "webUrl": "https://vitc.edu.vn",
+      "title": "App A",
+      "description": "Mô tả ngắn",
+      "iconUrl": "https://cdn.example.com/app-a.png",
+      "deepLink": "appa://home",
+      "iosStoreUrl": "https://apps.apple.com/app/id1234567890",
+      "androidStoreUrl": "https://play.google.com/store/apps/details?id=com.example.appa",
+      "webUrl": "https://example.com/app-a",
       "enabled": true
     }
   ]
 }
-
