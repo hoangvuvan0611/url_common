@@ -1,8 +1,8 @@
 {
   "apps": [
     {
-      "title": "App A",
-      "description": "Mô tả ngắn",
+      "title": "Sổ chi tiêu",
+      "description": "Ứng dụng quản lý tài chính cá nhân",
       "iconUrl": "https://drive.google.com/file/d/1xSm0CAVIYawI0_WWPdlAx7fyz7uFz7JP/view?usp=sharing",
       "deepLink": "appa://home",
       "iosStoreUrl": "https://apps.apple.com/app/id1234567890",
