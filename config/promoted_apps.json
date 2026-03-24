@@ -18,7 +18,7 @@
       "iosStoreUrl": "https://apps.apple.com/app/id1234567890",
       "androidStoreUrl": "https://play.google.com/store/apps/details?id=com.example.appa",
       "webUrl": "https://example.com/app-a",
-      "enabled": true
+      "enabled": false
     }
   ]
 }
