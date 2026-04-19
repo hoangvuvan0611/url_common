@@ -6,9 +6,19 @@
   "courses": [
     {
       "level": 3,
-      "code": "math",
-      "name": "Toán",
+      "code": "hoChiMinhThought",
+      "name": "Tư tưởng Hồ Chí Minh",
       "time": 40,
+      "type": "general", 
+      "numOfQuestion": 50,
+      "questions": []
+    },
+    {
+      "level": 3,
+      "code": "marxistLeninistPhilosophy",
+      "name": "Triết học Mác - Lênin",
+      "time": 40,
+      "type": "general", 
       "numOfQuestion": 50,
       "questions": []
     }
