@@ -2,19 +2,19 @@
   "items": [
     {
       "id": 1,
-      "url": ""
+      "url": "https://raw.githubusercontent.com/hoangvuvan0611/url_common/main/config/vnua_quiz_item_01.json"
     },
     {
       "id": 2,
-      "url": ""
+      "url": "https://raw.githubusercontent.com/hoangvuvan0611/url_common/main/config/vnua_quiz_item_02.json"
     },
     {
       "id": 3,
-      "url": ""
+      "url": "https://raw.githubusercontent.com/hoangvuvan0611/url_common/main/config/vnua_quiz_item_03.json"
     },
     {
       "id": 4,
-      "url": ""
+      "url": "https://raw.githubusercontent.com/hoangvuvan0611/url_common/main/config/vnua_quiz_item_04.json"
     }
   ]
 }
