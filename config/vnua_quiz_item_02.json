@@ -1,0 +1,16 @@
+{
+  "id": "item_2",
+  "level": 1,
+  "code": "university",
+  "name": "Đại học",
+  "courses": [
+    {
+      "level": 3,
+      "code": "math",
+      "name": "Toán",
+      "time": 40,
+      "numOfQuestion": 50,
+      "questions": []
+    }
+  ]
+}
