@@ -5,33 +5,37 @@
   "name": "Đại học",
   "courses": [
     {
+      "id": "course_1",
       "level": 3,
       "code": "hoChiMinhThought",
       "name": "Tư tưởng Hồ Chí Minh",
       "time": 40,
-      "type": "general", 
+      "type": "political", 
       "numOfQuestion": 50,
       "questions": []
     },
     {
+      "id": "course_2",
       "level": 3,
       "code": "marxistLeninistPhilosophy",
       "name": "Triết học Mác - Lênin",
       "time": 40,
-      "type": "general", 
+      "type": "political", 
       "numOfQuestion": 50,
       "questions": []
     },
     {
+      "id": "course_3",
       "level": 3,
       "code": "marxistLeninistPoliticalEconomy",
       "name": "Kinh tế chính trị Mác-Lênin",
       "time": 40,
-      "type": "general", 
+      "type": "political", 
       "numOfQuestion": 50,
       "questions": []
     },
     {
+      "id": "course_4",
       "level": 3,
       "code": "historyOfCommunistPartyOfVietnam",
       "name": "Lịch sử Đảng Cộng Sản Việt Nam",
@@ -41,11 +45,22 @@
       "questions": []
     },
     {
+      "id": "course_5",
       "level": 3,
       "code": "introductionToLaw",
       "name": "Pháp luật đại cương",
       "time": 40,
-      "type": "general", 
+      "type": "political", 
+      "numOfQuestion": 50,
+      "questions": []
+    },
+    {
+      "id": "course_6",
+      "level": 3,
+      "code": "scientificSocialism",
+      "name": "Chủ nghĩa xã hội khoa học",
+      "time": 40,
+      "type": "political", 
       "numOfQuestion": 50,
       "questions": []
     }
