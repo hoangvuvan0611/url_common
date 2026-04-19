@@ -21,6 +21,33 @@
       "type": "general", 
       "numOfQuestion": 50,
       "questions": []
+    },
+    {
+      "level": 3,
+      "code": "marxistLeninistPoliticalEconomy",
+      "name": "Kinh tế chính trị Mác-Lênin",
+      "time": 40,
+      "type": "general", 
+      "numOfQuestion": 50,
+      "questions": []
+    },
+    {
+      "level": 3,
+      "code": "historyOfCommunistPartyOfVietnam",
+      "name": "Lịch sử Đảng Cộng Sản Việt Nam",
+      "time": 40,
+      "type": "general", 
+      "numOfQuestion": 50,
+      "questions": []
+    },
+    {
+      "level": 3,
+      "code": "introductionToLaw",
+      "name": "Pháp luật đại cương",
+      "time": 40,
+      "type": "general", 
+      "numOfQuestion": 50,
+      "questions": []
     }
   ]
 }
