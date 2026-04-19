@@ -1,0 +1,12 @@
+{
+  "id": "item_1",
+  "level": 1,
+  "code": "university",
+  "name": "Đại học",
+  "groups": [
+    {
+      "name": ""
+
+    }
+  ]
+}
