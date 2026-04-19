@@ -1,12 +1,47 @@
 {
-  "id": "item_1",
+  "id": "item_2",
   "level": 1,
-  "code": "university",
-  "name": "Đại học",
+  "code": "high_school",
+  "name": "Trung học phổ thông",
   "groups": [
     {
-      "name": ""
-
+      "level": 2,
+      "code": "grade_10",
+      "name": "Lớp 10",
+      "course": [
+        {
+          "level": 3,
+          "code": "math",
+          "name": "Toán",
+          "time": 40,
+          "numOfQuestion": 50,
+          "questions": [],
+          "exams_set": []
+        },
+        {
+          "level": 3,
+          "code": "literature",
+          "name": "Văn",
+          "time": 40,
+          "numOfQuestion": 50,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "code": "grade_11",
+      "name": "Lớp 11",
+      "course": [
+        {
+          "level": 3,
+          "code": "math",
+          "name": "Toán",
+          "time": 40,
+          "numOfQuestion": 50,
+          "questions": []
+        }
+      ]
     }
   ]
 }
