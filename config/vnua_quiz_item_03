@@ -1,0 +1,2719 @@
+    {
+      "id": "item_3",
+      "level": 1,
+      "code": "information_technology",
+      "name": "Tin học",
+      "groups": [],
+      "course": [
+        {
+          "level": 3,
+          "code": "math",
+          "name": "Chứng chỉ Công nghệ thông tin cơ bản",
+          "time": 40,
+          "numOfQuestion": 50,
+          "questions": [
+            {
+              "question_number": 1,
+              "question_text": "Những ký tự, chữ số nào được sử dụng để biểu diễn số nhị phân?",
+              "options": {
+                "A": "Chữ số 1 và ký tự I",
+                "B": "Chữ số 0 và kí tự O",
+                "C": "Các chữ số 0 đến 9",
+                "D": "Các chữ số 0 và 1"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 2,
+              "question_text": "Hãy tưởng tượng bạn làm việc cho một Công ty ABC và bạn cần phải mua một máy tính lưu trữ thông tin khách hàng và đơn đặt hàng của công ty và làm cho nó dễ tiếp cận với một số người sử dụng trong công ty. Các loại hình hệ thống bạn nên xem xét mua?",
+              "options": {
+                "A": "Một thiết bị PDA",
+                "B": "Một máy tính xách tay",
+                "C": "Một máy tính để bàn",
+                "D": "Một máy chủ"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 3,
+              "question_text": "Thời gian cần thiết để thiết bị lưu trữ truy cập đến dữ liệu và chương trình gọi là:",
+              "options": {
+                "A": "Tốc độ truy cập",
+                "B": "Bộ nhớ",
+                "C": "Lưu trữ",
+                "D": "Dung lượng"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 4,
+              "question_text": "Thiết bị nào đóng vai trò vừa vào vừa ra",
+              "options": {
+                "A": "Ổ đĩa cứng gắn ngoài",
+                "B": "Màn hình cảm ứng",
+                "C": "Chuột",
+                "D": "Máy in"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 5,
+              "question_text": "Điều gì xảy ra khi một máy tính được đặt trong chế độ Sleep",
+              "options": {
+                "A": "Duy trì trạng thái hiện hành của tất cả chương trình và tập tin trong bộ nhớ và duy trì máy tính ở chế độ tiêu thụ ít điện năng",
+                "B": "Duy trì trạng thái hiện hành của tất cả chương trình và tập tin trong bộ nhớ và trong đĩa cứng và tắt hệ thống",
+                "C": "Máy tính được đăng xuất nhưng các chương trình vẫn đang chạy",
+                "D": "Duy trì trạng thái hiện hành của tất cả chương trình và tập tin trong đĩa cứng và tắt hệ thống"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 6,
+              "question_text": "Hertz (Hz) là đơn vị đo đại lượng nào?",
+              "options": {
+                "A": "Dung lượng của các bộ nhớ trong máy tính",
+                "B": "Tốc độ tính toán của CPU trong máy tính",
+                "C": "Cả A và B",
+                "D": "Không có đáp án"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 7,
+              "question_text": "Đâu là phát biểu đúng khi chạy chương trình dọn đĩa (Disk cleanup)",
+              "options": {
+                "A": "Xóa thông tin trong bộ nhớ RAM",
+                "B": "Xóa các tệp tin tạm thời",
+                "C": "Thực hiện chống phân mảnh ổ cứng",
+                "D": "Thực hiện sao lưu các tệp tin quan trọng"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 8,
+              "question_text": "Nếu bạn đang tải một chương trình từ Internet, quá trình nào bạn nên sử dụng trước khi cài đặt chương trình?",
+              "options": {
+                "A": "Nén tập tin",
+                "B": "Kiểm tra việc mua phần mềm hoàn tất",
+                "C": "Lưu các tập tin và quét virus/spyware trên tập tin",
+                "D": "Lưu các tập tin và tiến hành cài đặt từ trang Web"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 9,
+              "question_text": "Mục đích chính của loại phần mềm nào là tạo ra các tài liệu văn bản.",
+              "options": {
+                "A": "Trình xử lý văn bản",
+                "B": "Chương trình trình chiếu",
+                "C": "Phần mềm phát triển web",
+                "D": "Trình xử lý bảng tính"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 10,
+              "question_text": "Phần mềm nào là thích hợp để sử dụng trong việc tính toán và quản lý dữ liệu với qui mô dữ liệu vừa và nhỏ?",
+              "options": {
+                "A": "Microsoft PowerPoint (Presentation)",
+                "B": "Microsoft Word (Document)",
+                "C": "Microsoft Access (Database)",
+                "D": "Microsoft Excel (Spreadsheet)"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 11,
+              "question_text": "Chương trình trước khi có thể được thực thi trên máy tính, nó phải được",
+              "options": {
+                "A": "Biên dịch",
+                "B": "Biên tập",
+                "C": "Thực hành",
+                "D": "Vá lỗi"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 12,
+              "question_text": "Chức năng nào thường được sử dụng để cài đặt, hủy cài đặt, cài lại phần mềm trong windows",
+              "options": {
+                "A": "Phần cứng",
+                "B": "Phần mềm",
+                "C": "Bảng điều khiển (Control Panel)",
+                "D": "Màn hình Desktop"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 13,
+              "question_text": "Phát biểu nào sau đây nói về phần mềm là đúng nhất?",
+              "options": {
+                "A": "Là một tập hợp các chỉ thị (lệnh) nhằm hướng dẫn cho máy tính thực hiện một/nhiều tác vụ nào đó",
+                "B": "Là những thông tin được lưu trữ trong RAM",
+                "C": "Là các chương trình được cài đặt trong ROM",
+                "D": "Là một đoạn chương trình cho phép thiết bị giao tiếp được với máy tính"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 14,
+              "question_text": "Đơn vị dữ liệu nhỏ nhất dùng trong máy tính là:",
+              "options": {
+                "A": "Byte",
+                "B": "Bit",
+                "C": "Word",
+                "D": "Kí tự"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 15,
+              "question_text": "Các đĩa kim loại cứng, dày, có khả năng lưu trữ và truy cập dữ liệu với tốc độ cao được gọi là",
+              "options": {
+                "A": "Bộ nhớ flash",
+                "B": "SAN",
+                "C": "Đĩa cứng",
+                "D": "Đĩa quang"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 16,
+              "question_text": "Loại phần mềm nào mà mã nguồn có thể được phân phối và sửa đổi bởi lập trình viên",
+              "options": {
+                "A": "Phần mềm miền công cộng (Public Domain Software)",
+                "B": "Phần mềm nguồn mở (Open Source Software)",
+                "C": "Phần mềm tiện ích (Utility Software)",
+                "D": "Phần mềm thương mại (Commercial Software)"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 17,
+              "question_text": "Driver là gì?",
+              "options": {
+                "A": "Phần mềm cho phép một hệ điều hành giao tiếp với một thiết bị",
+                "B": "Một tiêu chuẩn mà một công ty muốn thực thi trên mỗi máy tính công ty",
+                "C": "Phần mềm tích hợp kiểm soát cách thức một thiết bị hoạt động",
+                "D": "Một loại phương tiện lưu trữ"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 18,
+              "question_text": "Bạn có thể làm gì để giảm thiểu khả năng lây nhiễm cho máy tính của bạn với một virus?",
+              "options": {
+                "A": "Không bao giờ mở một tập tin với định dạng .exe gửi qua email mà không quét nó đầu tiên",
+                "B": "Lưu và quét bất kỳ tập tin đính kèm từ email trước khi mở chúng",
+                "C": "Nếu tải một tập tin từ Internet, lưu và quét các tập tin trước khi sử dụng nó",
+                "D": "Bất kỳ phương án nào nêu trên"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 19,
+              "question_text": "Phát biểu nào là đúng khi hệ điều hành chạy ở chế độ Safe Mode?",
+              "options": {
+                "A": "Các dịch vụ mạng không được kích hoạt",
+                "B": "Hệ điều hành chỉ tải các tập tin hệ thống cơ bản, các dịch vụ cơ bản và các driver cơ bản",
+                "C": "Các dòng nhắc lệnh được kích hoạt thay vì hệ điều hành",
+                "D": "Chuột và các thiết bị lưu trữ không hoạt động",
+                "E": "Các dịch vụ mạng được kích hoạt nhưng hạn chế một số dịch vụ"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 20,
+              "question_text": "Đâu là phương thức hiệu quả nhất cho một quản trị mạng để mua giấy phép cho 25 máy tính trong một tổ chức?",
+              "options": {
+                "A": "Mua một giấy phép mạng cho 25 máy tính",
+                "B": "Mua 25 đăng kí cho 25 máy tính",
+                "C": "Mua 25 giấy phép từ một cửa hàng bán lẻ",
+                "D": "Mua 25 hệ thống mới với phần mềm đã đóng gói"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 21,
+              "question_text": "Loại phần mềm ứng dụng nào là thích hợp nhất để lưu trữ và tổ chức một số lượng lớn thông tin bao gồm các mối quan hệ dữ liệu phức tạp?",
+              "options": {
+                "A": "chương trình kế toán",
+                "B": "chương trình quản lý cơ sở dữ liệu",
+                "C": "chương trình xử lý văn bản",
+                "D": "chương trình bảng tính"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 22,
+              "question_text": "Một công ty nhỏ đang tạo một danh sách khách hàng lớn với tên, thông tin liên lạc, chi tiết công ty, chi tiết mua bán. Ứng dụng nào bạn nên dùng?",
+              "options": {
+                "A": "Microsoft PowerPoint",
+                "B": "Microsoft Excel",
+                "C": "Microsoft Access",
+                "D": "Microsoft OneNote",
+                "E": "Microsoft Word"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 23,
+              "question_text": "Chỉ ra đâu là lợi ích của việc cấp phép sử dụng phần mềm theo vị trí, theo số lượng, không giới hạn",
+              "options": {
+                "A": "Giá cả, cập nhật, chức năng",
+                "B": "Chức năng, cài đặt, cập nhật",
+                "C": "Hiệu năng, giá cả, cập nhật",
+                "D": "Giá cả, cài đặt, cập nhật"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 24,
+              "question_text": "Máy tính sẽ thực hiện việc gì khi bạn khởi động một chương trình ứng dụng",
+              "options": {
+                "A": "Kiểm tra dung lượng còn trống trên ổ đĩa cứng",
+                "B": "Đóng tất cả các chương trình ứng dụng khác đang được mở",
+                "C": "Lưu trữ các tập tin làm việc trước đó của chương trình ứng dụng",
+                "D": "Nạp một bản sao của các chỉ dẫn hoạt động của chương trình vào bộ nhớ RAM"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 25,
+              "question_text": "Không đóng bất kỳ chương trình nào đang chạy của người dùng hiện tại trong Windows 7, tùy chọn nào sau đây cho phép đăng nhập vào tài khoản khác trên máy tính",
+              "options": {
+                "A": "Lock",
+                "B": "Switch User",
+                "C": "Sleep",
+                "D": "Log off",
+                "E": "Hibernate"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 26,
+              "question_text": "Phát biểu nào sau đây là đúng khi nói về các đơn vị đo",
+              "options": {
+                "A": "Megabits được dùng để mô tả tốc độ kết nối với Internet, Megabytes được dùng để mô tả dung lượng của tập tin hoặc không gian lưu trữ. 8 Megabyte = 1 Megabits",
+                "B": "Megabits được dùng để mô tả tốc độ kết nối với Internet, Megabytes được dùng để mô tả dung lượng của tập tin hoặc không gian lưu trữ. 1 Megabyte = 8 Megabits",
+                "C": "Megabytes được dùng để mô tả tốc độ kết nối với Internet, Megabits được dùng để mô tả dung lượng của tập tin hoặc không gian lưu trữ. 1 Megabyte = 8 Megabits",
+                "D": "Megabytes được dùng để mô tả tốc độ kết nối với Internet, Megabits được dùng để mô tả dung lượng của tập tin hoặc không gian lưu trữ. 8 Megabyte = 1 Megabits"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 27,
+              "question_text": "Tập tin nào chứa thông tin về một cấu hình hệ thống tại 1 thời điểm cụ thể",
+              "options": {
+                "A": "Restore data",
+                "B": "Restore point",
+                "C": "System restore",
+                "D": "System event"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 28,
+              "question_text": "Cái gì cung cấp các lệnh cho CPU để giao tiếp với các thiết bị được yêu cầu khi bật máy tính",
+              "options": {
+                "A": "Hệ thống BIOS",
+                "B": "Hệ thống CMOS",
+                "C": "Hệ thống Registry",
+                "D": "Hệ thống HAL"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 29,
+              "question_text": "Tùy chọn nào dưới đây là các thiết bị máy tính (Chọn 3)",
+              "options": {
+                "A": "Ubuntu",
+                "B": "Server",
+                "C": "Linux",
+                "D": "Desktop",
+                "E": "Laptop",
+                "F": "Mac OS"
+              },
+              "answer": "B,D,E"
+            },
+            {
+              "question_number": 30,
+              "question_text": "Thiết bị nào được thiết kế cho tính thuận tiện và lưu động",
+              "options": {
+                "A": "Netbook",
+                "B": "Desktop",
+                "C": "Laptop",
+                "D": "Server"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 31,
+              "question_text": "Những thiết bị cầm tay nào có thể được xem là một công cụ hiệu quả để quản lý tin nhắn và âm thanh của bạn?",
+              "options": {
+                "A": "Điện thoại di động",
+                "B": "Thiết bị MP3",
+                "C": "Điện thoại thông minh",
+                "D": "Máy đọc sách điện tử"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 32,
+              "question_text": "Trong máy tính, thành phần điều khiển và thao tác dữ liệu để tạo ra thông tin được gọi là:",
+              "options": {
+                "A": "Bàn phím",
+                "B": "Chuột",
+                "C": "Màn hình",
+                "D": "Bộ vi xử lý"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 33,
+              "question_text": "Thiết bị ______ chuyển tiếng động thành dạng mà hệ thống có thể xử lý.",
+              "options": {
+                "A": "Điện tử hóa",
+                "B": "Máy In",
+                "C": "Webcam",
+                "D": "Microphone"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 34,
+              "question_text": "RAM được biết đến như là thiết bị lưu trữ",
+              "options": {
+                "A": "Tuần tự",
+                "B": "Thứ cấp",
+                "C": "Bền vững",
+                "D": "Tạm thời"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 35,
+              "question_text": "Những hạn chế của việc sử dụng Netbook là gì? (2 đáp án)",
+              "options": {
+                "A": "Dung lượng lưu trữ",
+                "B": "Thời gian khởi động",
+                "C": "Kích cỡ màn hình",
+                "D": "Tính di động"
+              },
+              "answer": "A,C"
+            },
+            {
+              "question_number": 36,
+              "question_text": "Thiết bị nào được sử dụng để chuyển đổi dữ liệu và các chương trình mà người dùng hiểu, thành các định dạng phù hợp để máy tính có thể xử lý:",
+              "options": {
+                "A": "Thiết bị trỏ",
+                "B": "Thiết bị đầu ra",
+                "C": "Thiết bị đầu vào",
+                "D": "Thiết bị hiển thị"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 37,
+              "question_text": "Theo nhiều chuyên gia dự đoán, công nghệ ______ sẽ tạo nên cuộc cách mạng có ảnh hưởng lớn tới cách thức con người giao tiếp và sử dụng công nghệ máy tính?",
+              "options": {
+                "A": "Bộ nhớ",
+                "B": "Thiết bị đầu vào",
+                "C": "Đồ họa",
+                "D": "Không dây"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 38,
+              "question_text": "Ba công cụ hệ thống nào được áp dụng cho 1 ổ cứng?",
+              "options": {
+                "A": "1. Backup 2. Disk defragment 3. Network scan",
+                "B": "1. Backup 2. Disk clean up 3. Disk defragment",
+                "C": "1.Network scan 2. Disk clean up 3. Disk defragment",
+                "D": "1. Backup 2. Disk clean up 3. Network scan"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 39,
+              "question_text": "______ là một chương trình cung cấp các chức năng của trình xử lý văn bản, trình bảng tính, bộ quản trị cơ sở dữ liệu và nhiều hơn nữa.",
+              "options": {
+                "A": "Ứng dụng chuyên dụng",
+                "B": "Ứng dụng cơ bản",
+                "C": "Bộ ứng dụng tích hợp",
+                "D": "Bộ phần mềm"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 40,
+              "question_text": "Tìm có một ngân sách hạn hẹp nhưng cần phải mua phần mềm để theo dõi các báo cáo chi phí trên máy tính xách tay cá nhân của mình. Các yếu tố nào sau đây anh ta nên chọn",
+              "options": {
+                "A": "Tìm kiếm phần mềm có thể làm việc với phần cứng hiện tại và hệ điều hành của anh ta",
+                "B": "Tìm kiếm phần mềm rằng anh ta có thể mua và tải về từ Internet",
+                "C": "Tìm kiếm phần mềm hỗ trợ cấp giấy phép trang web",
+                "D": "Tìm kiếm một bộ phần mềm sẽ thực hiện một loạt các chức năng"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 41,
+              "question_text": "______ được tập trung vào các lĩnh vực và nghề nghiệp cụ thể.",
+              "options": {
+                "A": "Ứng dụng chuyên dụng",
+                "B": "Ứng dụng cơ bản",
+                "C": "Chương trình tiện ích",
+                "D": "Bộ ứng dụng thương mại"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 42,
+              "question_text": "Phần mềm cho phép máy tính tương tác với người sử dụng, ứng dụng và phần cứng được gọi là ______",
+              "options": {
+                "A": "Phần mềm ứng dụng",
+                "B": "Trình xử lý văn bản",
+                "C": "Phần mềm hệ thống",
+                "D": "Phần mềm cơ sở dữ liệu"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 43,
+              "question_text": "Các tùy chọn nào dưới đây là lợi ích khi cập nhật một phần mềm ứng dụng (3 đáp án)",
+              "options": {
+                "A": "Phần mềm được tăng cường các tiện ích hoặc tính năng",
+                "B": "Khắc phục các lỗi của phần mềm",
+                "C": "Loại bỏ những công cụ hoặc tính năng mà người dùng không sử dụng",
+                "D": "Bổ sung các điều khoản có lợi cho người sử dụng",
+                "E": "Tăng cường bảo mật"
+              },
+              "answer": "A,B,E"
+            },
+            {
+              "question_number": 44,
+              "question_text": "Điện thoại thông minh có thể nhận lệnh từ (chọn 2)",
+              "options": {
+                "A": "Nguồn cấp điện",
+                "B": "Người dùng",
+                "C": "Thiết bị lưu trữ",
+                "D": "Hệ thống máy tính khác"
+              },
+              "answer": "B,D"
+            },
+            {
+              "question_number": 45,
+              "question_text": "Hệ thống bộ nhớ của máy tính bao gồm:",
+              "options": {
+                "A": "Đĩa quang, bộ nhớ trong",
+                "B": "Bộ nhớ ngoài, ROM",
+                "C": "Bộ nhớ trong, bộ nhớ ngoài",
+                "D": "Cache, bộ nhớ ngoài"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 46,
+              "question_text": "Lựa chọn nào không có thiết bị vào/ra:",
+              "options": {
+                "A": "Đĩa từ, đĩa CD-ROM, loa",
+                "B": "Màn hình, RAM, máy in",
+                "C": "ROM, RAM, các thanh ghi",
+                "D": "CPU, chuột, máy quét ảnh"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 47,
+              "question_text": "Chỉ ra đâu là phát biểu đúng về Netbook (2 đáp án)",
+              "options": {
+                "A": "Hiệu năng cao hơn Desktop",
+                "B": "Nhỏ hơn Laptop",
+                "C": "Có thể phục vụ nhiều người dùng",
+                "D": "Dễ dàng di động"
+              },
+              "answer": "B,D"
+            },
+            {
+              "question_number": 48,
+              "question_text": "Hãy chọn các quy đổi đơn vị thông tin đúng (chọn 3)",
+              "options": {
+                "A": "1 Byte = 8 Bits",
+                "B": "1 Kilobyte = 1024 Bytes",
+                "C": "1 Megabyte = 1024 Gigabytes",
+                "D": "1 Petabyte = 1024 Terabytes",
+                "E": "1 Gigabyte = 1024 Kilobytes",
+                "F": "1 Terabyte = 1024 Megabytes"
+              },
+              "answer": "A,B,D"
+            },
+            {
+              "question_number": 49,
+              "question_text": "Điều gì xảy ra khi một máy tính được đặt trong chế độ Hibernate",
+              "options": {
+                "A": "Duy trì trạng thái hiện hành của tất cả chương trình và tập tin trong bộ nhớ và tắt hệ thống",
+                "B": "Duy trì trạng thái hiện hành của tất cả chương trình và tập tin trong đĩa cứng và tắt hệ thống",
+                "C": "Duy trì trạng thái hiện hành của tất cả chương trình và tập tin trong bộ nhớ và trong đĩa cứng và tắt hệ thống",
+                "D": "Máy tính được đăng xuất nhưng các chương trình vẫn đang chạy"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 50,
+              "question_text": "Tại sao RAM được coi là bốc hơi?",
+              "options": {
+                "A": "Dung lượng của RAM không thể thay đổi được",
+                "B": "Nó không ổn định",
+                "C": "Nội dung của nó không thể thay đổi",
+                "D": "Nội dung của nó biến mất khi máy tính tắt hoặc khởi động lại"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 51,
+              "question_text": "Thiết bị nào không thuộc nhóm thiết bị vào/ra?",
+              "options": {
+                "A": "Màn hình cảm ứng",
+                "B": "Bàn phím",
+                "C": "Màn hình",
+                "D": "Chuột",
+                "E": "Ổ cứng"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 52,
+              "question_text": "Thành phần bên trong máy tính nào thực hiện các tính toán và các phép toán logic?",
+              "options": {
+                "A": "Bộ nhớ RAM",
+                "B": "ROM-BIOS",
+                "C": "Bo mạch chủ",
+                "D": "Bộ vi xử lý"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 53,
+              "question_text": "Tùy chọn nào là các thiết lập hệ thống để quản lý về việc sử dụng nguồn năng lượng cho máy tính",
+              "options": {
+                "A": "Usage plan",
+                "B": "Power plan",
+                "C": "Battery plan",
+                "D": "Proper plan"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 54,
+              "question_text": "Các đường mạch điện từ liên kết các thiết bị khác nhau được gọi là gì",
+              "options": {
+                "A": "Bandwidth",
+                "B": "Bus",
+                "C": "Cable",
+                "D": "Expansion Slot"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 55,
+              "question_text": "Loại bộ nhớ nào mà cả SRAM và DRAM đều mất tất cả dữ liệu khi chúng ta tắt nguồn",
+              "options": {
+                "A": "Non-Volatile",
+                "B": "Transitory",
+                "C": "Volatile",
+                "D": "Disposable"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 56,
+              "question_text": "Bốn lựa chọn nào dưới đây là chức năng của hệ điều hành",
+              "options": {
+                "A": "Quản lý kết nối hệ thống mạng LAN",
+                "B": "Quản lý bộ nhớ",
+                "C": "Giao tiếp với người dùng",
+                "D": "Quản lý kết nối Internet",
+                "E": "Quản lý tiến trình",
+                "F": "Quản lý hệ thống lưu trữ"
+              },
+              "answer": "B,C,E,F"
+            },
+            {
+              "question_number": 57,
+              "question_text": "Đâu là các phát biểu đúng khi nói về ổ đĩa cứng thể rắn (Chọn 3)",
+              "options": {
+                "A": "Không yêu cầu phải cung cấp nguồn điện liên tục để duy trì dữ liệu",
+                "B": "Không bị hỏng trong quá trình sử dụng",
+                "C": "Không có bộ phận chuyển động nên ít bị gãy, vỡ",
+                "D": "Có tốc độ khởi động nhanh hơn",
+                "E": "Ít tỏa nhiệt hơn"
+              },
+              "answer": "C,D,E"
+            },
+            {
+              "question_number": 58,
+              "question_text": "RAM được cài đặt ở đâu",
+              "options": {
+                "A": "CPU (Bộ xử lý trung tâm)",
+                "B": "Mainboard (Bo mạch chủ)",
+                "C": "Power supply (Bộ cung cấp nguồn)",
+                "D": "HDD (ổ đĩa cứng)"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 59,
+              "question_text": "Độ phủ của các bit được bố trí trên ổ đĩa được gọi là __________.",
+              "options": {
+                "A": "Sector",
+                "B": "Mật độ",
+                "C": "Track",
+                "D": "Cylinder"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 60,
+              "question_text": "Phát biểu nào về các ổ cứng thể rắn là chính xác?",
+              "options": {
+                "A": "Ổ cứng thể rắn có dung lượng lớn hơn so với ổ đĩa từ tính",
+                "B": "Ổ cứng thể rắn không bao giờ được mang ra ngoài",
+                "C": "Ổ cứng thể rắn là ít tốn kém hơn so với các ổ đĩa từ tính tương đối nhỏ",
+                "D": "Ổ cứng thể rắn không có bộ phận chuyển động"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 61,
+              "question_text": "Bạn nên làm gì khi 1 phần mềm liên tục có vấn đề",
+              "options": {
+                "A": "Gỡ bỏ cài đặt sau đó cài đặt lại",
+                "B": "Xóa ứng dụng và sử dụng ứng dụng khác thay thế",
+                "C": "Sao chép ứng dụng sang vị trí khác sau đó cài đặt lại",
+                "D": "Di chuyển ứng dụng sang vị trí khác sau đó cài đặt lại"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 62,
+              "question_text": "Con người, quy trình, phần mềm, phần cứng và dữ liệu là năm thành phần của một:",
+              "options": {
+                "A": "Hệ thống phần mềm",
+                "B": "Công nghệ thông tin",
+                "C": "Hệ thống thông tin",
+                "D": "Hệ thống năng lực"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 63,
+              "question_text": "Quy trình được mô tả trong các tài liệu hướng dẫn sử dụng được soạn thảo bởi:",
+              "options": {
+                "A": "Người dùng cuối",
+                "B": "Nhà cung cấp dịch vụ",
+                "C": "Chuyên gia máy tính",
+                "D": "Hãng Microsoft"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 64,
+              "question_text": "Thỏa thuận giấy phép người dùng cuối (EULA – End User License Agreement), thường sẽ hiển thị khi cài đặt phần mềm và không đề cập đến:",
+              "options": {
+                "A": "Số giờ sử dụng phần mềm trong ngày",
+                "B": "Sao chép phần mềm cho nhiều người",
+                "C": "Cài đặt phần mềm trên nhiều máy tính",
+                "D": "Hiệu chỉnh bất kỳ phần nào của phần mềm"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 65,
+              "question_text": "Chỉ ra phát biểu đúng về Undo",
+              "options": {
+                "A": "Lưu lại hành động gần đây nhất",
+                "B": "Khôi phục hành động gần đây nhất",
+                "C": "Lập lại hành động gần đây nhất",
+                "D": "Xóa các thao tác gần đây nhất"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 66,
+              "question_text": "Để khởi động lại máy tính, cách làm nào dưới đây là SAI?",
+              "options": {
+                "A": "Bấm nút Power trên hộp máy",
+                "B": "Từ cửa sổ màn hình nền nhấn nút Start - Shutdown, sau đó chọn mục Restart",
+                "C": "Bấm nút Reset trên hộp máy",
+                "D": "Nhấn tổ hợp phím Ctrl - Alt - Del, chọn mục Restart"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 67,
+              "question_text": "Bạn sẽ sử dụng một hệ điều hành cho những nhiệm vụ nào sau đây? (Chọn 2)",
+              "options": {
+                "A": "Tạo một danh sách liên lạc",
+                "B": "Tính toán giá trị thu được từ một khoản đầu tư",
+                "C": "Xóa các tập tin trong một thư mục",
+                "D": "Hiệu chỉnh các tập tin âm thanh và video"
+              },
+              "answer": "A,C"
+            },
+            {
+              "question_number": 68,
+              "question_text": "Để xuất hiện danh mục các phần mềm ứng dụng được cài đặt trên Windows 7, lựa chọn nào là phù hợp?",
+              "options": {
+                "A": "Start -> Control Panel",
+                "B": "Start -> Documents",
+                "C": "Start -> All Programs",
+                "D": "Start -> Search"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 69,
+              "question_text": "Cách tốt nhất để tắt máy tính là gì?",
+              "options": {
+                "A": "Nhấn tổ hợp phím Ctrl + Alt + Delete hai lần",
+                "B": "Chọn Shutdown từ nút Start và để cho nó hoàn tất quá trình",
+                "C": "Nhấn phím Esc",
+                "D": "Nhấn công tắc nguồn trên hộp máy"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 70,
+              "question_text": "Windows 7 là loại phần mềm nào?",
+              "options": {
+                "A": "Trình duyệt",
+                "B": "Hệ điều hành",
+                "C": "Phần mềm dùng thử",
+                "D": "Phần mềm ứng dụng"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 71,
+              "question_text": "Loại máy tính mạnh nhất là:",
+              "options": {
+                "A": "Siêu máy tính",
+                "B": "Máy vi tính",
+                "C": "Máy tính lớn",
+                "D": "Máy tính mini"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 72,
+              "question_text": "Để truy cập vào trang Web, trước tiên ta cần phải mở chương trình nào?",
+              "options": {
+                "A": "My Document",
+                "B": "Internet Explorer",
+                "C": "My Network Places",
+                "D": "My Computer"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 73,
+              "question_text": "Điều gì quyết định các thiết lập ngày giờ trên một máy tính không được kết nối mạng?",
+              "options": {
+                "A": "Một đồng hồ sử dụng năng lượng từ nguồn điện 220V",
+                "B": "Một đồng hồ hoạt động bằng pin bên trong máy tính",
+                "C": "Máy chủ mạng",
+                "D": "Cài đặt trong bộ nhớ RAM",
+                "E": "Một máy chủ thời gian trên Internet"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 74,
+              "question_text": "Lý do tại sao bạn muốn thay đổi định dạng ngày trên máy tính của bạn?",
+              "options": {
+                "A": "Tuân thủ các tiêu chuẩn của công ty",
+                "B": "Tuân thủ các tiêu chuẩn quốc gia",
+                "C": "Cho phù hợp với sở thích cá nhân",
+                "D": "Tất cả các phương án"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 75,
+              "question_text": "Loại tài khoản nào cho phép bạn tạo thêm các tài khoản người dùng?",
+              "options": {
+                "A": "Guest",
+                "B": "Administrator",
+                "C": "Standard User",
+                "D": "A hoặc C"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 76,
+              "question_text": "Loại tài khoản nào cho phép bạn được cài đặt chương trình trên hệ thống máy tính cục bộ hay trên mạng",
+              "options": {
+                "A": "Guest",
+                "B": "Standard User",
+                "C": "Administrator"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 77,
+              "question_text": "Trong một thư mục cùng có 2 thư mục con là A và B. Khi đổi tên thư mục từ A thành B thì",
+              "options": {
+                "A": "Máy tính tự động đặt tên mới là B1",
+                "B": "Máy tính hiện ra thông báo tên đã tồn tại và không cho phép thực hiện",
+                "C": "Máy tính tự động xoá thư mục B đã có",
+                "D": "Tất cả đều sai"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 78,
+              "question_text": "Các phần mềm: MS Word, MS Excel, MS PowerPoint, MS Internet Explorer thuộc nhóm phần mềm nào?",
+              "options": {
+                "A": "Nhóm phần mềm ứng dụng",
+                "B": "Nhóm phần mềm hệ điều hành",
+                "C": "Nhóm phần mềm cơ sở dữ liệu"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 79,
+              "question_text": "Lựa chọn nào sau đây chỉ ra sự khác biệt giữa phần mềm ứng dụng và phần mềm hệ điều hành?",
+              "options": {
+                "A": "Phần mềm hệ điều hành cần phần mềm ứng dụng để chạy.",
+                "B": "Phần mềm ứng dụng cần phần mềm hệ điều hành để chạy.",
+                "C": "Phần mềm ứng dụng luôn cần nhiều bộ nhớ để chạy hơn phần mềm hệ điều hành.",
+                "D": "Phần mềm ứng dụng cần nhiều không gian trong ổ cứng để chạy hơn phần mềm hệ điều hành."
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 80,
+              "question_text": "Bạn hãy cho biết, phát biểu nào sau đây về “thùng rác” trong Windows là đúng?",
+              "options": {
+                "A": "Các tệp tin trong thùng rác có thể được khôi phục lại trong vòng 1 tháng trước khi bị thùng rác xóa hoàn toàn.",
+                "B": "Các tệp tin trong thùng rác có thể được khôi phục lại bất cứ lúc nào.",
+                "C": "Không thể khôi phục được nhiều tệp tin trong thùng rác cùng một lúc.",
+                "D": "Các file âm thanh, hình ảnh không thể cho vào thùng rác."
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 81,
+              "question_text": "Làm thế nào bạn có thể định vị con trỏ trên màn hình nền Windows?",
+              "options": {
+                "A": "Nhấn ESC để xem nó",
+                "B": "Nút cuối cùng trên thanh tác vụ Windows",
+                "C": "Nhấn Spacebar để xem nó",
+                "D": "Dùng chuột điều khiển mũi tên màu trắng"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 82,
+              "question_text": "Làm thế nào để tạo shortcut cho một thư mục hoặc tập tin trên màn hình nền Windows?",
+              "options": {
+                "A": "Nhấp đúp vào một trong hai nút chuột",
+                "B": "Nhấp chuột phải, Chọn Send to → Desktop",
+                "C": "Chạm vào bánh xe cuộn (scroll wheel), Chọn Send to Desktop",
+                "D": "Nhấp chuột trái, Chọn Create a shortcut"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 83,
+              "question_text": "Phát biểu nào dưới đây là SAI?",
+              "options": {
+                "A": "Phần mềm Calculator hỗ trợ chức năng tính toán",
+                "B": "LINUX là phần mềm mã nguồn mở và miễn phí",
+                "C": "MS Word là phần mềm ứng dụng được tích hợp trong hệ điều hành Windows 7",
+                "D": "MS Windows là phần mềm thương mại, phải có giấy phép để được cấp quyền sử dụng"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 84,
+              "question_text": "Trong Windows Explorer của Windows 7, muốn tạo một thư mục mới để lưu trữ tài liệu bạn thực hiện bằng cách:",
+              "options": {
+                "A": "Kích chuột phải/ Chọn New Folder",
+                "B": "Chọn menu File/ New Folder",
+                "C": "Cả A và B đều thực hiện được",
+                "D": "Cả A và B đều không thực hiện được"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 85,
+              "question_text": "Theo bạn, hệ thống quản lí vào/ra (I/O) của hệ điều hành là gì?",
+              "options": {
+                "A": "Bộ nhớ máy tính",
+                "B": "Một phần của hệ điều hành",
+                "C": "Chuột, bàn phím",
+                "D": "Một cơ chế trên mọi thiết bị tin học"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 86,
+              "question_text": "Để hiển thị nhiều cửa sổ làm việc cùng một lúc ta sử dụng tính năng nào?",
+              "options": {
+                "A": "Chuột phải vào Desktop, chọn Show windows stacked",
+                "B": "Chuột phải vào Desktop, chọn Show windows side by side",
+                "C": "Chuột phải vào thanh Taskbar, chọn Cascade windows",
+                "D": "Chuột phải vào thanh Taskbar, chọn Show windows side by side"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 87,
+              "question_text": "Để gắn nhanh các phần mềm vào thanh Taskbar ta làm như thế nào? (chọn 2)",
+              "options": {
+                "A": "Chọn phần mềm và nhấn phím F1",
+                "B": "Kéo thả phần mềm vào thanh Taskbar",
+                "C": "Chọn phần mềm và nhấn phím F10",
+                "D": "Chuột phải vào phần mềm, chọn Pin to Taskbar"
+              },
+              "answer": "B,D"
+            },
+            {
+              "question_number": 88,
+              "question_text": "Ở màn hình Desktop của Windows, khi bạn để chuột lên trên đồng hồ (góc phải phía dưới màn hình), điều gì sẽ xảy ra?",
+              "options": {
+                "A": "Giờ được hiển thị với font chữ lớn hơn",
+                "B": "Ngày hiện tại của hệ thống được hiển thị",
+                "C": "Máy tính hiển thị một đồng hồ có kim",
+                "D": "Máy tính sẽ đọc giờ qua loa bằng tiếng Anh"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 89,
+              "question_text": "Trong hệ điều hành Windows, tên của thư mục được đặt như thế nào?",
+              "options": {
+                "A": "Bắt buộc phải dùng chữ in hoa để đặt tên thư mục",
+                "B": "Bắt buộc không được có phần mở rộng",
+                "C": "Thường được đặt theo quy cách đặt phần tên của tập tin",
+                "D": "Bắt buộc phải có phần mở rộng"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 90,
+              "question_text": "Trong quá trình sử dụng máy tính, bạn thấy một chương trình bị treo, trình quản lý nào bạn nên dùng để khắc phục sự cố trên?",
+              "options": {
+                "A": "Task Manager",
+                "B": "Windows Manager",
+                "C": "Process Manager",
+                "D": "Kill Manager"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 91,
+              "question_text": "Hãy lựa chọn phương án tắt máy tính an toàn và đúng cách nhất",
+              "options": {
+                "A": "Nhấn nút Start ở góc dưới bên trái màn hình nền, chọn mục Shut down",
+                "B": "Tắt nguồn điện",
+                "C": "Giữ nút Power trên hộp máy trong vài giây",
+                "D": "Bấm nút Reset trên hộp máy"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 92,
+              "question_text": "Khi đang sử dụng Windows, để lưu nội dung màn hình vào bộ nhớ Clipboard ta sử dụng tổ hợp phím nào?",
+              "options": {
+                "A": "Ctrl + Ins",
+                "B": "Ctrl + C",
+                "C": "Esc",
+                "D": "Print Screen"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 93,
+              "question_text": "Hệ điều hành nào được sử dụng rộng rãi nhất?",
+              "options": {
+                "A": "Mac OS",
+                "B": "Windows",
+                "C": "UNIX",
+                "D": "Linux"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 94,
+              "question_text": "Thuộc tính chỉ đọc của một file có ý nghĩa:",
+              "options": {
+                "A": "Cho phép xem, sửa, xoá nội dung file đó",
+                "B": "Xem được nội dung, nhưng không cho chỉnh sửa",
+                "C": "Không xem được nội dung file đó",
+                "D": "Không cho phép sao chép, di chuyển file đó"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 95,
+              "question_text": "Nếu bạn không thể sử dụng một số lệnh nhất định trong Control Panel, nguyên nhân khả dĩ nhất là gì?",
+              "options": {
+                "A": "Bạn không có quyền sử dụng lệnh này",
+                "B": "Phiên bản Windows của bạn không bao gồm tính năng Control Panel",
+                "C": "Bạn đã chọn sai lệnh",
+                "D": "Tất cả các phương án trên"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 96,
+              "question_text": "Khi nào bạn có thể muốn thiết lập nguồn để ở chế độ Sleep là thích hợp nhất?",
+              "options": {
+                "A": "Khi bạn muốn bảo tồn năng lượng và hệ thống máy tính của bạn không được cấm vào nguồn",
+                "B": "Khi bạn cần phải mang máy tính xách tay đến vị trí khác",
+                "C": "Khi bạn đang chờ đợi để kết nối với mạng",
+                "D": "Khi bạn đi tham dự một cuộc họp mà sau đó bạn muốn tiếp tục làm việc với những gì bạn đang làm trước đó"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 97,
+              "question_text": "Trên màn hình Desktop, khu vực nào bạn sẽ click để thay đổi ngày giờ hiện tại?",
+              "options": {
+                "A": "Chuột phải trên Desktop và chọn Personalization",
+                "B": "Control Panel",
+                "C": "Task Notification",
+                "D": "Start Button"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 98,
+              "question_text": "Bạn hãy cho biết tên của 4 file hệ thống:",
+              "options": {
+                "A": "command.com, out.sys, msdos.sys, diskspace.bin",
+                "B": "command.com, io.sys, sysdos.sys, drvspace.bin",
+                "C": "system.com, io.sys, sysdos.sys, diskspace.bin",
+                "D": "command.com, io.sys, msdos.sys, drvspace.bin"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 99,
+              "question_text": "Khi đặt tên cho tài liệu cần lưu trữ, theo bạn, cách đặt tên file đó tối thiểu phải thể hiện được:",
+              "options": {
+                "A": "Nội dung chính của file",
+                "B": "Tên tác giả của file",
+                "C": "Ngày tháng hoàn thành file đó",
+                "D": "Đánh theo số thứ tự của file"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 100,
+              "question_text": "Sử dụng chức năng tìm kiếm của MS Windows, người sử dụng có thể",
+              "options": {
+                "A": "Tìm thấy tất cả những tệp tin đang tồn tại",
+                "B": "Gõ câu lệnh để xoá tất cả các tệp chứa trên ổ đĩa cứng",
+                "C": "Tìm thấy tất cả tệp và thư mục đã bị xoá",
+                "D": "Tìm thấy những tệp đã bị xoá"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 101,
+              "question_text": "Giả sử một thiết bị ngoại vi hoạt động không đúng chức năng, điều nào có khả năng gây ra lỗi trên?",
+              "options": {
+                "A": "CPU",
+                "B": "Firmware",
+                "C": "Driver",
+                "D": "BUS"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 102,
+              "question_text": "Hệ điều hành là phần mềm?",
+              "options": {
+                "A": "Quản lý và phân phối tài nguyên máy tính phục vụ cho các ứng dụng",
+                "B": "Luôn luôn phải có để máy tính hoạt động",
+                "C": "Điều khiển thiết bị phần cứng",
+                "D": "Tất cả các câu trên đều đúng"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 103,
+              "question_text": "Byte có thể biểu diễn được:",
+              "options": {
+                "A": "Một từ",
+                "B": "Một dòng văn bản",
+                "C": "Một ký tự mã ASCII",
+                "D": "Một dãy số 0"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 104,
+              "question_text": "Để gắn nhanh các phần mềm vào cửa sổ Start, ta phải thực hiện như thế nào?",
+              "options": {
+                "A": "Chọn phần mềm và nhấn phím F1",
+                "B": "Chọn phần mềm và nhấn phím F12",
+                "C": "Nhấn đúp vào phần mềm",
+                "D": "Chuột phải vào phần mềm, chọn Pin to Start"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 105,
+              "question_text": "Trình bày các bước thiết lập hiển thị thay đổi chủ đề (theme) màn hình Desktop : A- Chọn Personalization_ B- Nhấp chuột phải trên màn hình Desktop_ C- Chọn một chủ đề trong danh sách_ D- Sử dụng thanh công cụ Scroll bar để hiển thị danh sách các chủ đề",
+              "options": {
+                "A": "B-C-A-D",
+                "B": "A-B-C-D",
+                "C": "A-B-D-C",
+                "D": "B-A-C-D"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 106,
+              "question_text": "Các tệp tin và thư mục chứa trên đĩa cứng được hiển thị khi người sử dụng thực hiện thao tác nào dưới đây?",
+              "options": {
+                "A": "Mở cửa sổ Control Panel",
+                "B": "Mở cửa sổ My Documents",
+                "C": "Mở cửa sổ Internet Explorer",
+                "D": "Mở cửa sổ My Computer"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 107,
+              "question_text": "Để tìm kiếm một tệp tin được lưu trong máy tính, ta sử dụng chức năng nào trong các chức năng dưới đây?",
+              "options": {
+                "A": "Start->Computer",
+                "B": "Start->Control Panel",
+                "C": "Start->Search",
+                "D": "Start -> Run"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 108,
+              "question_text": "Bạn đã có 1 thư mục mang tên KiemTra, trong đó có 10 file được đặt tên lần lượt từ KT1 đến KT10. Bạn chọn 3 file KT2, KT5, KT9 bằng cách nào?",
+              "options": {
+                "A": "Nhấn phím Ctrl trong khi nhấn chuột phải chọn lần lượt 3 file cần chọn",
+                "B": "Nhấn phím Shift trong khi nhấn chuột trái chọn lần lượt 3 file cần chọn",
+                "C": "Nhấn phím Ctrl trong khi nhấn chuột trái chọn lần lượt 3 file cần chọn",
+                "D": "Nhấn phím Alt trong khi nhấn chuột phải chọn lần lượt 3 file cần chọn"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 109,
+              "question_text": "Trong những tên dưới đây, những tên nào được chấp nhận đặt tên tệp tin trong Windows?",
+              "options": {
+                "A": "Kiem tra !",
+                "B": "Kiem:Tra",
+                "C": "12345",
+                "D": "Kiem*tra",
+                "E": "Kiem_tra"
+              },
+              "answer": "A,C,E"
+            },
+            {
+              "question_number": 110,
+              "question_text": "Chỉ ra định nghĩa đúng về bản cập nhật Service Pack:",
+              "options": {
+                "A": "Chỉ bao gồm những bản cập nhật về bảo mật cho hệ điều hành Windows",
+                "B": "Bao gồm toàn bộ những cập nhật về bảo mật cũng như tính năng dành cho hệ điều hành Windows",
+                "C": "Cung cấp giải pháp bảo mật cho máy tính",
+                "D": "Là một chương trình diệt virus"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 111,
+              "question_text": "Để đảm bảo tính an toàn khi tạm thời rời khỏi máy tính mà không đóng bất kỳ chương trình nào đang chạy, tùy chọn nào sau đây là đúng nhất",
+              "options": {
+                "A": "Sleep",
+                "B": "Lock",
+                "C": "Hibernate",
+                "D": "Log off"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 112,
+              "question_text": "Hệ điều hành nào thường được dùng trong các trường Đại học hoặc các tổ chức nghiên cứu khoa học",
+              "options": {
+                "A": "Mac OS",
+                "B": "Windows",
+                "C": "Linux",
+                "D": "Android"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 113,
+              "question_text": "Các tùy chọn nào dưới đây là hệ điều hành (Chọn 4)",
+              "options": {
+                "A": "Mac OS",
+                "B": "Fedora",
+                "C": "Android",
+                "D": "Microsoft Office",
+                "E": "Winrar",
+                "F": "Windows 7"
+              },
+              "answer": "A,B,C,F"
+            },
+            {
+              "question_number": 114,
+              "question_text": "Để bảo vệ các thành phần vật lý của máy tính, ta không nên",
+              "options": {
+                "A": "Tắt máy tính cứ sau 2 giờ làm việc",
+                "B": "Để máy tính ở nơi thoáng mát",
+                "C": "Đặt gần các nguồn gây ra từ trường ( như nam châm)",
+                "D": "Lắp thêm quạt trong hộp máy"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 115,
+              "question_text": "Tùy chọn nào sau đây có thể được truy cập thông qua Ease of Access Center (Windows 7)?",
+              "options": {
+                "A": "Date and Time settings",
+                "B": "User Account Control",
+                "C": "Magnifier",
+                "D": "Power options"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 116,
+              "question_text": "Group policy đề cập đến điều gì?",
+              "options": {
+                "A": "Một tính năng mà người quản trị mạng có thể sử dụng để kiểm soát môi trường làm việc của người dùng và các tài khoản máy tính",
+                "B": "Nhóm bạn đã được gán bởi người quản trị mạng",
+                "C": "ID đăng nhập và mật khẩu bạn cần phải kết nối vào mạng",
+                "D": "Thiết lập các quy tắc chỉ cho văn phòng hoặc bộ phận của bạn"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 117,
+              "question_text": "Chính sách nhóm thường được áp dụng cho đối tượng nào?",
+              "options": {
+                "A": "Nhóm người dùng hoặc nhóm các máy tính",
+                "B": "Máy tính cá nhân",
+                "C": "Từng tài khoản cá nhân"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 118,
+              "question_text": "\"GUI\" là viết tắt của cụm từ nào dưới đây?",
+              "options": {
+                "A": "General utility interface",
+                "B": "Gnutella universal interface",
+                "C": "Graphical user interface",
+                "D": "Graphic uninstall/install"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 119,
+              "question_text": "Bạn hãy cho biết, trong các nhóm sản phẩm dưới đây, nhóm nào là các hệ điều hành:",
+              "options": {
+                "A": "Linux, Mac OS, Windows, MS-DOS",
+                "B": "Windows XP, Microsoft Access, Linux, Foxpro",
+                "C": "Windows 98, Windows 2000, MS-DOS, Microsoft Word",
+                "D": "Visual Basic, MS-DOS, Windows XP, Linux"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 120,
+              "question_text": "Lựa chọn nào sau đây thuộc về trách nhiệm quản lý của hệ điều hành?",
+              "options": {
+                "A": "Các phần mềm tiện ích đã được cài đặt và khả dụng",
+                "B": "Các phần mềm ứng dụng đã được cài đặt và khả dụng",
+                "C": "Các nguồn tài nguyên, phần cứng, phần mềm của hệ thống",
+                "D": "Các trình duyệt được sử dụng để duyệt Internet"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 121,
+              "question_text": "Gói dịch vụ (service pack) là gì?",
+              "options": {
+                "A": "Một tập hợp các bản cập nhật phần mềm",
+                "B": "Một hình thức của phần mềm gián điệp",
+                "C": "Một hệ điều hành nhúng",
+                "D": "Một chế độ tắt máy được thiết kế để tiết kiệm pin"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 122,
+              "question_text": "Để lựa chọn các thư mục và tập tin liền kề nhau, ta sử dụng phím trái chuột kết hợp với phím nào sau đây?",
+              "options": {
+                "A": "Shift",
+                "B": "Ctrl",
+                "C": "Alt",
+                "D": "Shift+Alt"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 123,
+              "question_text": "Cách tổ chức thư mục và tập tin trong hệ điều hành Windows không cho phép:",
+              "options": {
+                "A": "Thư mục cha và thư mục con có tên trùng nhau",
+                "B": "Tạo một tập tin có chứa thư mục con",
+                "C": "Một đĩa cứng vật lý có thể phân chia thành nhiều phân vùng ổ đĩa",
+                "D": "Trong một thư mục có cả thư mục con và tập tin"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 124,
+              "question_text": "Phần mở rộng tệp tin nào không phải là dạng tệp tin nén?",
+              "options": {
+                "A": ".nrg",
+                "B": ".zip",
+                "C": ".AC3",
+                "D": ".rar"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 125,
+              "question_text": "Dạng tệp tin nào được tạo bởi các chương trình xử lý văn bản?",
+              "options": {
+                "A": "Cơ sở dữ liệu",
+                "B": "Video",
+                "C": "Văn bản",
+                "D": "Tệp tin nén"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 126,
+              "question_text": "Tổ hợp phím Ctrl + O trong Word có tác dụng như thế nào?",
+              "options": {
+                "A": "Mở một văn bản đã có",
+                "B": "Đóng văn bản đang mở",
+                "C": "Mở một văn bản mới",
+                "D": "Lưu văn bản vào đĩa"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 127,
+              "question_text": "Định dạng .DOC là định dạng của chương trình nào?",
+              "options": {
+                "A": "MS Word 365",
+                "B": "MS Word 2013",
+                "C": "MS Word 2010",
+                "D": "MS Word 2003"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 128,
+              "question_text": "Trong soạn thảo Word, muốn định dạng ký tự, ta thực hiện các thao tác nào?",
+              "options": {
+                "A": "Home – Font",
+                "B": "Ctrl + D",
+                "C": "Cả A và B đều đúng",
+                "D": "Cả A và B đều sai"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 129,
+              "question_text": "Trong ứng dụng Microsoft Office, tổ hợp phím Ctrl + N có tác dụng gì?",
+              "options": {
+                "A": "Mở hộp thoại new file",
+                "B": "Mở một phiên làm việc mới",
+                "C": "Mở hộp thoại lưu tài liệu",
+                "D": "Mở một tài liệu trống mới"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 130,
+              "question_text": "Tên của thanh công cụ nằm ngay trên Ribbon trong một chương trình Microsoft Office là gì?",
+              "options": {
+                "A": "Page Setup",
+                "B": "File",
+                "C": "Quick Access",
+                "D": "Toolbar"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 131,
+              "question_text": "Phím chức năng nào dưới đây có thể được chọn để thực hiện việc kiểm tra lỗi chính tả (spelling)?",
+              "options": {
+                "A": "F5",
+                "B": "F7",
+                "C": "F4",
+                "D": "F3"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 132,
+              "question_text": "Khi bạn đã có chọn gõ văn bản là theo chuẩn UNICODE, kiểu gõ là Telex thì phông chữ nào sau đây được áp dụng?",
+              "options": {
+                "A": "Arial",
+                "B": ".Vntime",
+                "C": ".VnArial",
+                "D": "VNI-Times"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 133,
+              "question_text": "Tùy chọn nào dưới đây được sử dụng để thiết lập khoảng cách giữa các ký tự?",
+              "options": {
+                "A": "Toolbar",
+                "B": "Drawing toolbar",
+                "C": "Options Spacing",
+                "D": "Character Spacing"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 134,
+              "question_text": "Để chọn cả dòng văn bản, bạn có thể sử dụng phương pháp nào?",
+              "options": {
+                "A": "Nhấp chuột và kéo qua dòng văn bản",
+                "B": "Nháy 3 lần chuột trên dòng văn bản",
+                "C": "Nhấn Ctrl và sau đó nhấp vào dòng văn bản",
+                "D": "Bất kỳ phương án nào"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 135,
+              "question_text": "Chức năng của Footnote được sử dụng để làm gì?",
+              "options": {
+                "A": "Chú thích được trình bày ở đầu văn bản",
+                "B": "Chú thích được trình bày ở cuối văn bản",
+                "C": "Chú thích được trình bày ở cuối trang",
+                "D": "Chú thích được trình bày ở cuối từ cần chú thích"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 136,
+              "question_text": "Trong chương trình MS Word 2010, nhóm Header & Footer nằm trên thẻ Ribbon nào?",
+              "options": {
+                "A": "Review",
+                "B": "Home",
+                "C": "View",
+                "D": "Insert"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 137,
+              "question_text": "Trong chương trình MS Word 2010, nhóm Table nằm trên thẻ Ribbon nào?",
+              "options": {
+                "A": "Home",
+                "B": "Page Layout",
+                "C": "Insert",
+                "D": "Mailings"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 138,
+              "question_text": "Khi đang soạn thảo văn bản Word, muốn phục hồi thao tác vừa thực hiện thì bấm tổ hợp phím nào?",
+              "options": {
+                "A": "Ctrl – Y",
+                "B": "Ctrl – V",
+                "C": "Ctrl – Z",
+                "D": "Ctrl – X"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 139,
+              "question_text": "Muốn biết mình đang sử dụng Word phiên bản nào, bạn phải thực hiện thao tác nào?",
+              "options": {
+                "A": "Nhấn File, chọn Properties",
+                "B": "Nhấn File/Help, chọn About Microsoft Word",
+                "C": "Nhấn Tools, chọn Options",
+                "D": "Nhấn Windows, chọn Split"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 140,
+              "question_text": "Khi soạn thảo văn bản, để khai báo thời gian tự lưu văn bản, ta thực hiện các thao tác nào?",
+              "options": {
+                "A": "Format - Options... Trong thẻ Save, đánh dấu chọn mục Save AutoRecover info every",
+                "B": "Tools - Options... Trong thẻ Save, đánh dấu chọn mục Safe AutoRecover info every",
+                "C": "View - Options... Trong thẻ Save, đánh dấu chọn mục Save AutoRecover info every",
+                "D": "File - Options... Trong thẻ Save, đánh dấu chọn mục Save AutoRecover info every"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 141,
+              "question_text": "Trong soạn thảo MS Word, muốn đánh số trang cho văn bản, ta thực hiện các thao tác nào?",
+              "options": {
+                "A": "Tools - Page Numbers",
+                "B": "View - Page Numbers",
+                "C": "Insert - Page Numbers",
+                "D": "Format - Page Numbers"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 142,
+              "question_text": "Khi soạn thảo văn bản trong MS Word 2010, để hiển thị trang sẽ in lên màn hình, ta thực hiện các thao tác nào?",
+              "options": {
+                "A": "File - Print",
+                "B": "File - Print Preview",
+                "C": "Format - Print Preview",
+                "D": "Edit - Print Preview"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 143,
+              "question_text": "Trong MS Word, thao tác nào cần phải mở thẻ HOME?",
+              "options": {
+                "A": "Khi muốn ghi lưu tệp văn bản",
+                "B": "Khi muốn đặt trang văn bản nằm ngang",
+                "C": "Khi muốn đổi phông chữ",
+                "D": "Khi muốn cài đặt máy in"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 144,
+              "question_text": "Thẻ nào trên thanh Ribbon cho phép chúng ta quản lý tập tin văn bản trên các ứng dụng Office?",
+              "options": {
+                "A": "Insert",
+                "B": "Review",
+                "C": "File",
+                "D": "Home"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 145,
+              "question_text": "Các hiển thị Hậu trường (Backstage View) là gì?",
+              "options": {
+                "A": "Một hộp thoại xuất hiện khi bạn chọn mở hoặc lưu tệp tin",
+                "B": "Tên của đặc tính mà bạn có thể tùy chỉnh các thiết lập của chương trình",
+                "C": "Một cách hiển thị mà thông qua thẻ File sẽ giúp bạn quản lý các tệp tin",
+                "D": "Một cửa sổ cho phép bạn tổ chức các tệp tin, tương tự như Windows Explorer"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 146,
+              "question_text": "Chức năng nào cho phép nhiều người dùng thực hiện chỉnh sửa trên một văn bản?",
+              "options": {
+                "A": "Page setup",
+                "B": "Track Changes",
+                "C": "Comment",
+                "D": "Footer"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 147,
+              "question_text": "Ví dụ ta gõ chữ \"tt\" và nhấn phím spacebar, máy sẽ hiện ra cụm từ \"thông tin\". Đây là chức năng gì?",
+              "options": {
+                "A": "Auto correct",
+                "B": "Auto text",
+                "C": "Auto Format",
+                "D": "Tất cả đều sai"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 148,
+              "question_text": "Tìm kiếm và thay thế một từ lặp lại nhiều lần, ta có thể thực hiện các thao tác nào?",
+              "options": {
+                "A": "Insert\\Editing",
+                "B": "Home\\Editing\\Selected",
+                "C": "Home\\Editing\\Replace",
+                "D": "PageLayout\\Editing\\Replace"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 149,
+              "question_text": "Bạn đang soạn thảo văn bản, ở chân các dòng chữ có dấu văn đỏ. Bạn làm thế nào để bỏ các dấu văn đỏ này?",
+              "options": {
+                "A": "Trong thẻ FILE, chọn Options và chọn Proofing. Bỏ dấu tick ở mục Check spelling as you type",
+                "B": "Trong thẻ FILE, chọn Options và chọn Display. Bỏ dấu tick ở mục Show highlighter mark",
+                "C": "Trong thẻ HOME, chọn Options và chọn Proofing. Bỏ dấu tick ở mục Check spelling as you type",
+                "D": "Trong thẻ FILE, chọn Options và chọn Proofing. Bỏ dấu tick ở mục Check grammar with spelling"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 150,
+              "question_text": "Trong phần Page Layout/Page Setup mục Gutter có chức năng gì?",
+              "options": {
+                "A": "Quy định khoảng cách từ mép đến trang in",
+                "B": "Chia văn bản thành số đoạn theo ý muốn",
+                "C": "Phần thừa trống để đóng thành tập",
+                "D": "Quy định lề của trang in"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 151,
+              "question_text": "Trong mục Format/Drop Cap, phần Distance from text dùng để xác định khoảng cách",
+              "options": {
+                "A": "Giữa ký tự Drop Cap với ký tự tiếp theo",
+                "B": "Giữa ký tự Drop Cap với toàn văn bản",
+                "C": "Giữa ký tự Drop Cap với lề trái",
+                "D": "Giữa ký tự Drop Cap với lề phải"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 152,
+              "question_text": "Trong hộp thoại File/Page Setup khung Margins, mục Mirror Margins dùng để làm gì?",
+              "options": {
+                "A": "Đặt lề cho các section đối xứng nhau",
+                "B": "Đặt lề cho các trang chẵn và lẻ đối xứng",
+                "C": "Đặt cho tiêu đề cân xứng với văn bản",
+                "D": "Đặt lề cho văn bản cân xứng"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 153,
+              "question_text": "Trong soạn thảo MS Word, công dụng của tổ hợp Ctrl - F là",
+              "options": {
+                "A": "Chức năng tìm kiếm trong soạn thảo",
+                "B": "Định dạng trang",
+                "C": "Lưu tệp văn bản vào đĩa",
+                "D": "Tạo tệp văn bản mới"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 154,
+              "question_text": "Tính năng nào dưới đây là tính năng mới trong Word 2010?",
+              "options": {
+                "A": "Thẻ Review",
+                "B": "Word Option",
+                "C": "Định dạng .docx",
+                "D": "Thẻ File với dạng hiển thị Backstage View"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 155,
+              "question_text": "Các kiểu dữ liệu thông dụng của Excel là:",
+              "options": {
+                "A": "Kiểu chuỗi, kiểu văn bản, kiểu ngày tháng",
+                "B": "Kiểu chuỗi, kiểu số, kiểu lôgic, kiểu ngày tháng, kiểu công thức",
+                "C": "Kiểu số, kiểu lôgic, kiểu ngày tháng",
+                "D": "Kiểu công thức, kiểu hàm, kiểu số, kiểu ngày tháng"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 156,
+              "question_text": "Bước nào dưới đây bạn nên sử dụng để hiển thị một danh sách các mẫu số tính?",
+              "options": {
+                "A": "Nhấp chuột vào thẻ File chọn New",
+                "B": "Trên thanh công cụ truy xuất nhanh, chọn New",
+                "C": "Nhấn Ctrl+N",
+                "D": "Nhấp chuột vào đường liên kết Blank Workbook trên khung tác vụ Getting Started"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 157,
+              "question_text": "Trong MS Excel 2010, để xóa một Sheet (trang tính) trong một Workbook đang mở ta chọn cách nào dưới đây?",
+              "options": {
+                "A": "Nhấn Ctrl+A để chọn toàn bộ Sheet, sau đó nhấn phím Delete",
+                "B": "Nhấn chuột phải lên tên Sheet và chọn lệnh Remove",
+                "C": "Nhấp chuột phải một ô trong Sheet và chọn lệnh Clear Contents",
+                "D": "Nhấn chuột phải lên tên Sheet và chọn lệnh Delete"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 158,
+              "question_text": "Để xóa một hàng trong Worksheet, ta chọn một ô tương ứng với hàng rồi",
+              "options": {
+                "A": "Nhấn phím Delete trên bàn phím",
+                "B": "Chọn Home/Cells/Delete/Delete Sheet Rows",
+                "C": "Tất cả đều đúng"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 159,
+              "question_text": "Câu nào sau đây sai? Khi nhập dữ liệu vào bảng tính Excel thì:",
+              "options": {
+                "A": "Dữ liệu kiểu thời gian sẽ mặc nhiên canh thẳng lề phải",
+                "B": "Dữ liệu kiểu kí tự sẽ mặc nhiên canh thẳng lề trái",
+                "C": "Dữ liệu kiểu số sẽ mặc nhiên canh thẳng lề trái",
+                "D": "Dữ liệu kiểu ngày tháng sẽ mặc nhiên canh thẳng lề phải"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 160,
+              "question_text": "Trong bảng tính Excel, giao của một hàng và một cột được gọi là?",
+              "options": {
+                "A": "Trường",
+                "B": "Công thức",
+                "C": "Ô",
+                "D": "Dữ liệu"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 161,
+              "question_text": "Trong lúc đang nhập nội dung nếu muốn hủy bỏ nội dung trong ô ta nhấn phím nào?",
+              "options": {
+                "A": "Alt+Enter",
+                "B": "F2",
+                "C": "Ctrl+W",
+                "D": "ESC"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 162,
+              "question_text": "Trong MS Excel 2010, tổ hợp phím nào được dùng để thay thế cho thao tác vào File, chọn Save?",
+              "options": {
+                "A": "Ctrl+O",
+                "B": "Ctrl+N",
+                "C": "Ctrl+S",
+                "D": "Ctrl+P"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 163,
+              "question_text": "Trong MS Excel 2010, để chọn toàn bộ nội dung thì ta phải nhấn tổ hợp phím nào?",
+              "options": {
+                "A": "Ctrl+Alt+A",
+                "B": "Shift+Ctrl+A",
+                "C": "Ctrl+A",
+                "D": "Shift+A"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 164,
+              "question_text": "Hàm Today() cho biết:",
+              "options": {
+                "A": "Số tháng trong năm của biến ngày tháng date",
+                "B": "Số năm của biến ngày tháng date",
+                "C": "Số ngày trong tháng của biến ngày tháng date",
+                "D": "Ngày tháng hiện tại của hệ thống"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 165,
+              "question_text": "Sau khi copy, chọn Home/Clipboard/Paste/Paste Special chỉ mục Comments dùng để",
+              "options": {
+                "A": "Dán giá trị trong ô",
+                "B": "Dán bề rộng ô",
+                "C": "Dán ghi chú",
+                "D": "Dán định dạng"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 166,
+              "question_text": "Trong bảng tính MS Excel 2010, để giữ cố định hàng hoặc cột trong cửa sổ soạn thảo, ta đánh dấu hàng hoặc cột, chọn",
+              "options": {
+                "A": "Thẻ Review – Freeze Panes",
+                "B": "Thẻ Home – Freeze Panes",
+                "C": "Thẻ View – Freeze Panes",
+                "D": "Thẻ Page Layout – Freeze Panes"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 167,
+              "question_text": "Trong bảng tính Excel, để sửa dữ liệu trong một ô tính mà không cần nhập lại, ta thực hiện:",
+              "options": {
+                "A": "Nháy chuột chọn ô tính cần sửa, rồi bấm phím F12",
+                "B": "Nháy chuột chọn ô tính cần sửa, rồi Bấm phím F4",
+                "C": "Nháy chuột chọn ô tính cần sửa, rồi bấm phím F2",
+                "D": "Nháy chuột chọn ô tính cần sửa, rồi Bấm phím F10"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 168,
+              "question_text": "Trong bảng tính MS Excel 2010, để ẩn cột, ta thực hiện:",
+              "options": {
+                "A": "Thẻ View - Format - Cells - Hide&Unhide – Hide Columns",
+                "B": "Thẻ Formulas - Format - Cells - Hide&Unhide – Hide Columns",
+                "C": "Thẻ Home - Format - Cells – Hide&Unhide – Hide Columns",
+                "D": "Thẻ Data - Format - Cells - Hide&Unhide – Hide Columns"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 169,
+              "question_text": "Khu vực nào trong cửa sổ Excel cho phép nhập các giá trị vào công thức?",
+              "options": {
+                "A": "Standard Tool Bar",
+                "B": "Menu Bar",
+                "C": "Formula Bar",
+                "D": "Title Bar"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 170,
+              "question_text": "Mỗi cột trong bảng dữ liệu (Datasheet) được gọi là gì?",
+              "options": {
+                "A": "Record",
+                "B": "Table",
+                "C": "Database",
+                "D": "Field"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 171,
+              "question_text": "Khi đang làm việc với Excel, có thể di chuyển từ sheet này sang sheet khác bằng cách sử dụng các phím hoặc các tổ hợp phím",
+              "options": {
+                "A": "Ctrl-Page Up ; Ctrl- Page Down",
+                "B": "Page Up ; Page Down",
+                "C": "Tất cả 2 câu đều đúng",
+                "D": "Tất cả 2 câu đều sai"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 172,
+              "question_text": "Khi nhập giá trị ngày 21/08/2009 mà MS Excel không tự động căn phải nội dung thì trường hợp đó có nghĩa là gì?",
+              "options": {
+                "A": "Máy tính thiết lập cách nhập ngày theo kiểu tháng/ngày/năm",
+                "B": "Đây là giá trị ngày không hợp lệ",
+                "C": "Tự động canh trái vì nó là kiểu số",
+                "D": "Sử dụng sai ký hiệu phân cách ngày tháng"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 173,
+              "question_text": "Dòng dữ liệu trong một bảng dữ liệu (Datasheet) được gọi là gì?",
+              "options": {
+                "A": "Table",
+                "B": "Database",
+                "C": "Field",
+                "D": "Record"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 174,
+              "question_text": "Kiểu dữ liệu nào dưới đây không phải là kiểu dữ liệu hợp lệ trong Excel?",
+              "options": {
+                "A": "Number",
+                "B": "Date/time",
+                "C": "Text",
+                "D": "Label"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 175,
+              "question_text": "Trong bảng tính MS Excel 2010, để tách dữ liệu trong một ô thành hai hoặc nhiều ô, ta thực hiện",
+              "options": {
+                "A": "Thẻ Data - Text to Columns – Delimited",
+                "B": "Thẻ Insert – Text to Columns – Delimited",
+                "C": "Thẻ Formulas - Text to Columns – Delimited",
+                "D": "Thẻ Home – Text to Columns – Delimited"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 176,
+              "question_text": "Khi đang làm việc với Excel, tổ hợp phím nào cho phép đưa con trỏ về ô đầu tiên (ô A1) của bảng tính?",
+              "options": {
+                "A": "Shift + Home",
+                "B": "Alt + Home",
+                "C": "Ctrl + Home",
+                "D": "Shift + Ctrl + Home"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 177,
+              "question_text": "Những đối tượng nào dưới đây của một trang tính (worksheet) có thể bảo vệ khỏi việc sửa đổi?",
+              "options": {
+                "A": "Contents",
+                "B": "Object",
+                "C": "Scenarios",
+                "D": "Tất cả các đối tượng trên"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 178,
+              "question_text": "Việc nhận dữ liệu từ các ô nằm trong worksheet khác được gọi là gì?",
+              "options": {
+                "A": "Referencing",
+                "B": "Updating",
+                "C": "Accessing",
+                "D": "Functioning"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 179,
+              "question_text": "Giả sử công thức tại ô F3 là =A5 + Sheet3!G$4. Sau khi sao chép công thức này từ ô F3 sang ô F4 thì công thức tại ô F4 sẽ là gì?",
+              "options": {
+                "A": "= B5 + Sheet3!H$4",
+                "B": "= A5 + Sheet3!G$5",
+                "C": "= A6 + Sheet3!G$4",
+                "D": "= A5 + Sheet3!G$4"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 180,
+              "question_text": "Trong bảng tính Excel, tại ô A2 có sẵn giá trị số 10; tại ô B2 gõ vào công thức =PRODUCT(A2,5) thì nhận được kết quả:",
+              "options": {
+                "A": "50",
+                "B": "10",
+                "C": "#VALUE!",
+                "D": "15"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 181,
+              "question_text": "Trong bảng tính Excel, điều kiện trong hàm IF được phát biểu dưới dạng một phép so sánh. Khi cần so sánh khác nhau thì sử dụng kí hiệu nào?",
+              "options": {
+                "A": "#",
+                "B": "<>",
+                "C": "><",
+                "D": "&"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 182,
+              "question_text": "Cài đặt nào dưới đây được sử dụng cho việc điều chỉnh để in một trang tính ra Letterhead?",
+              "options": {
+                "A": "Orientation",
+                "B": "Layout",
+                "C": "Paper",
+                "D": "Margin"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 183,
+              "question_text": "Trong bảng tính MS Excel, để thiết lập nhãn in, ta thực hiện",
+              "options": {
+                "A": "Thẻ File - Page Setup - Print Titles",
+                "B": "Thẻ Insert - Page Setup - Print Titles",
+                "C": "Thẻ Page Layout - Page Setup - Print Titles",
+                "D": "Thẻ Format - Page Setup - Print Titles"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 184,
+              "question_text": "Ô Name Box (phía trái thanh Formula bar) có công dụng gì?",
+              "options": {
+                "A": "Căn lề dữ liệu cho ô",
+                "B": "Hiển thị địa chỉ của ô hiện hành hoặc tên của vùng đang chọn",
+                "C": "Hiển thị dữ liệu trong ô",
+                "D": "Hiển thị công thức của ô"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 185,
+              "question_text": "Phương pháp nào bạn có thể sử dụng để tạo bản trình chiếu mới?",
+              "options": {
+                "A": "Chọn 1 Theme mới",
+                "B": "Tạo bản trình chiếu rỗng từ file",
+                "C": "Chọn 1 templates từ My templates",
+                "D": "Bất kỳ đáp án nào trên"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 186,
+              "question_text": "Khi sử dụng Microsoft PowerPoint để trình diễn, muốn trở lại slide trước đó ta phải ấn phím:",
+              "options": {
+                "A": "Enter",
+                "B": "PgDn",
+                "C": "PgUp",
+                "D": "Esc"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 187,
+              "question_text": "Phần mở rộng tệp tin mặc định của Microsoft PowerPoint 2010 là:",
+              "options": {
+                "A": ".potx",
+                "B": ".pptx",
+                "C": ".ppsx",
+                "D": ".thmx"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 188,
+              "question_text": "Phím nào sau đây cho phép bạn thực hiện thuyết trình từ slide đầu tiên",
+              "options": {
+                "A": "F5",
+                "B": "F3",
+                "C": "F4",
+                "D": "F2"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 189,
+              "question_text": "PowerPoint có thể làm được những gì?",
+              "options": {
+                "A": "In các Overhead màu hoặc đen trắng",
+                "B": "Tạo các handout cho khách dự hội thảo",
+                "C": "Cả A và B",
+                "D": "Không có đáp án"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 190,
+              "question_text": "Để mở một tập tin đã tồn tại trên đĩa, ta có thể:",
+              "options": {
+                "A": "Chọn File -> Open",
+                "B": "Chọn File -> New",
+                "C": "Chọn File -> Save",
+                "D": "Chọn File -> Close"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 191,
+              "question_text": "Trong khi thiết kế bản thuyết trình, thực hiện thao tác chọn Insert -> New Slide là để",
+              "options": {
+                "A": "Chèn thêm một slide mới vào ngay sau slide hiện hành",
+                "B": "Chèn thêm một slide mới vào ngay sau slide cuối cùng",
+                "C": "Chèn thêm một slide mới vào ngay trước slide hiện hành",
+                "D": "Chèn thêm một slide mới vào ngay trước slide cuối cùng"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 192,
+              "question_text": "Để tạo một slide giống hệt như slide hiện hành mà không phải thiết kế lại, bạn chọn phương án nào sau đây?",
+              "options": {
+                "A": "Không thực hiện được",
+                "B": "Chuột phải ở slide hiện hành -> Duplicate Slide",
+                "C": "Chọn Insert -> Duplicate",
+                "D": "Chọn Insert -> New Slide"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 193,
+              "question_text": "Tại một Slide hiện hành ta bấm delete (trên bàn phím) lệnh này sẽ:",
+              "options": {
+                "A": "Thêm slide hiện thời",
+                "B": "Không thực hiện",
+                "C": "Xóa slide hiện thời",
+                "D": "Cả A và B"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 194,
+              "question_text": "Để kết thúc việc trình diễn trong PowerPoint, ta bấm:",
+              "options": {
+                "A": "Phím Delete",
+                "B": "Phím F10",
+                "C": "Phím Esc",
+                "D": "Phím PgDn"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 195,
+              "question_text": "Thông thường trên một slide nên có tối đa bao nhiêu mục hoa thị?",
+              "options": {
+                "A": "Không có giới hạn",
+                "B": "8",
+                "C": "6",
+                "D": "12"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 196,
+              "question_text": "Phát biểu nào sau đây đúng?",
+              "options": {
+                "A": "Trong chương trình MS PowerPoint, chúng ta chỉ có thể thiết lập các tùy chọn cho một slide và không thể thiết lập cho một tập slide cùng một lúc",
+                "B": "Trong chương trình MS PowerPoint, chúng ta có thể thiết lập các tùy chọn cho một slide hay một tập slide cùng một lúc",
+                "C": "Cả A và B đều đúng",
+                "D": "Cả A và B đều sai"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 197,
+              "question_text": "Phát biểu nào sau đây đúng?",
+              "options": {
+                "A": "Trong chương trình MS PowerPoint, chúng ta có thể thiết lập thời gian chờ âm thanh cho các hiệu ứng lật trang hay các hiệu ứng của các đối tượng",
+                "B": "Trong chương trình MS PowerPoint, chúng ta chỉ có thể click chuột để chuyển đổi cho các hiệu ứng lật trang hay các hiệu ứng của các đối tượng",
+                "C": "Tất cả ý trên đều sai"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 198,
+              "question_text": "Để hủy bỏ thao tác vừa thực hiện ta nhấn tổ hợp phím",
+              "options": {
+                "A": "Ctrl + X",
+                "B": "Ctrl + Z",
+                "C": "Ctrl + C",
+                "D": "Ctrl + V"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 199,
+              "question_text": "Thao tác chọn File -> Save As là để",
+              "options": {
+                "A": "Mở một presentation đã có trên đĩa",
+                "B": "Lưu lại presentation đang thiết kế với một tên khác hoặc lưu sang nơi khác",
+                "C": "Tạo mới một presentation để thiết kế bài trình diễn",
+                "D": "Lưu lại presentation đang thiết kế"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 200,
+              "question_text": "Trước khi thoát khỏi PowerPoint 2010, nếu người sử dụng chưa lưu lại tập tin thì máy sẽ hiện một thông báo. Để lưu lại tập tin này ta sẽ kích chuột trái vào nút nào?",
+              "options": {
+                "A": "Nút Cancel",
+                "B": "Nút Save",
+                "C": "Nút No",
+                "D": "Nút Yes"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 201,
+              "question_text": "Khi thực hiện thao tác chọn Insert -> Movies and Sounds người sử dụng:",
+              "options": {
+                "A": "Có thể chèn âm thanh hoặc phim vào tệp trình chiếu",
+                "B": "Chỉ được phép chèn phim vào tệp trình chiếu",
+                "C": "Chỉ được phép chèn âm thanh vào tệp trình chiếu",
+                "D": "Chỉ được phép chèn hình ảnh vào tệp trình chiếu"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 202,
+              "question_text": "Sau khi đã chọn một số đối tượng trên slide hiện hành, nhấn tổ hợp phím nào sau đây sẽ làm mất các đối tượng đó?",
+              "options": {
+                "A": "Ctrl + Shift + X",
+                "B": "Shift + X",
+                "C": "Ctrl + X",
+                "D": "Alt + X"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 203,
+              "question_text": "Chọn câu sai trong các câu sau: Trong khi thiết kế bài trình chiếu bằng PowerPoint",
+              "options": {
+                "A": "Khi chọn Format -> Background, ta có thể định dạng màu nền cho các slide",
+                "B": "Ta có thể cân chỉnh đều hai bên cho một khối văn bản",
+                "C": "Khi chọn Format -> Replace Fonts sẽ thực hiện đổi font chữ cho tất cả các slide",
+                "D": "Không thể tạo hiệu ứng động cho các đối tượng trong slide chủ (slide master)"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 204,
+              "question_text": "Chọn câu sai trong các câu sau: Trong khi thiết kế bài trình chiếu bằng PowerPoint",
+              "options": {
+                "A": "Có thể chèn các biểu đồ vào bài trình chiếu",
+                "B": "Không thể tạo chỉ số trên (ví dụ số 2 trong x bình phương) như trong MS-Word",
+                "C": "Có thể sao chép (copy/paste) một đoạn văn bản từ tập tin Word sang",
+                "D": "Có thể dùng WordArt để tạo chữ nghệ thuật trang trí cho bài trình chiếu"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 205,
+              "question_text": "Tùy chọn nào dưới đây là tập hợp các thành tố của bản thuyết trình PowerPoint?",
+              "options": {
+                "A": "Speaker's notes",
+                "B": "Outlines",
+                "C": "Slides and Handout",
+                "D": "Tất cả các tùy chọn trên"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 206,
+              "question_text": "Để lưu một đoạn văn bản đã được chọn vào vùng nhớ đệm (clipboard) mà không làm mất đi đoạn văn bản đó ta nhấn tổ hợp phím",
+              "options": {
+                "A": "Ctrl + Z",
+                "B": "Ctrl + C",
+                "C": "Ctrl + V",
+                "D": "Ctrl + X"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 207,
+              "question_text": "Máy tính đang kết nối Internet, sử dụng siêu liên kết (Hyperlink) sẽ cho phép người dùng liên kết đến",
+              "options": {
+                "A": "Tất cả các tập tin, các slide đã có trong máy và các trang Web",
+                "B": "Chỉ các trang Web có trên mạng",
+                "C": "Chỉ các slide đã có trong bản thuyết trình đang soạn thảo",
+                "D": "Chỉ các tập tin có sẵn trong các ổ đĩa của máy tính đang soạn thảo"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 208,
+              "question_text": "Chức năng thêm các ghi chú vào bản trình chiếu để:",
+              "options": {
+                "A": "Ghi lại những thay đổi nội dung Slide sau mỗi lần thuyết trình",
+                "B": "Người xem cũng nhìn thấy được ý tưởng thuyết trình của mình",
+                "C": "Thống kê lại thời gian mỗi khi thuyết trình xong một Slide",
+                "D": "Sử dụng như một nhắc nhở về nội dung cần thuyết trình theo những hình ảnh trên mỗi Slide"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 209,
+              "question_text": "Lý do tại sao bạn muốn tạo bản handout?",
+              "options": {
+                "A": "Để sử dụng như bản sao cứng của các Slide trong bản trình chiếu",
+                "B": "Để làm tư liệu bổ sung khi thuyết trình",
+                "C": "Để phân phát cho mọi người nghe tham khảo khi trình chiếu",
+                "D": "Để cho phép người nghe ghi chú trong suốt bài thuyết trình"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 210,
+              "question_text": "Để thay đổi bố cục slide, bạn có thể:",
+              "options": {
+                "A": "Trên thẻ Design, chọn Layout",
+                "B": "Trên thẻ Home, trong nhóm Slides, chọn Layout",
+                "C": "Trên thẻ Design, trong nhóm Slides, chọn Slide Layout",
+                "D": "Trên thẻ Slide Show, chọn Layout"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 211,
+              "question_text": "Muốn sao chép một slide mà giữ nguyên được các định dạng, hiệu ứng và các đối tượng trong slide, ta có thể làm thế nào?",
+              "options": {
+                "A": "Trong chế độ Normal View, chọn slide muốn sao chép -> Nhấp phải chuột lên slide -> Chọn Duplicate Slide",
+                "B": "Trong chế độ Normal View, chọn slide muốn sao chép -> Nhấp phải chuột lên slide -> Chọn Delete",
+                "C": "Trong chế độ Normal View, chọn slide muốn sao chép -> Nhấp phải chuột lên slide -> Chọn Publish Slide",
+                "D": "Trong chế độ Normal View, chọn slide muốn sao chép -> Nhấp phải chuột lên slide -> Chọn New Slide"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 212,
+              "question_text": "Cách nhanh nhất để chèn một bảng vào slide là gì?",
+              "options": {
+                "A": "Thêm mới slide với bố cục Title and Content, sau đó click chọn Insert Table trong Content",
+                "B": "Sử dụng lệnh Insert để chèn 1 bảng tính Excel",
+                "C": "Thêm 1 hộp văn bản Textbox sau đó chèn bảng vào đó",
+                "D": "Thêm mới slide với bố cục Title and Content, sau đó vẽ bảng"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 213,
+              "question_text": "Một tập tin có chứa phong cách đã được tạo trước đó và có thể được sử dụng cho bài thuyết trình được gọi là gì?",
+              "options": {
+                "A": "Template",
+                "B": "Pre-formatting",
+                "C": "Auto Style",
+                "D": "Wizard"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 214,
+              "question_text": "Muốn một ô Text Box có viền xanh, bạn sử dụng thẻ Format (của text box) rồi chọn gì?",
+              "options": {
+                "A": "Chọn màu xanh trong ô Color ngay dưới chữ Line hoặc Fill đều sai",
+                "B": "Chọn thẻ Format, chọn màu xanh trong ô Color ngay dưới chữ Fill",
+                "C": "Chọn màu xanh trong ô Shape Outline",
+                "D": "Chọn màu xanh trong ô Color ngay dưới chữ Line hoặc Fill đều đúng"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 215,
+              "question_text": "Khái niệm nào gắn với sự kết nối các máy tính?",
+              "options": {
+                "A": "Thiết bị lưu trữ",
+                "B": "Internet",
+                "C": "World Wide Web",
+                "D": "Hệ thống dẫn điện"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 216,
+              "question_text": "WWW là viết tắt của cụm từ nào sau đây?",
+              "options": {
+                "A": "World Win Web",
+                "B": "World Wired Web",
+                "C": "World Wide Web",
+                "D": "Windows Wide Web"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 217,
+              "question_text": "Khái niệm địa chỉ vật lý (Physical Address) là của thiết bị nào?",
+              "options": {
+                "A": "HDD",
+                "B": "RAM",
+                "C": "NIC",
+                "D": "CPU"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 218,
+              "question_text": "Những người xâm nhập trái phép vào các máy tính trên internet để lấy thông tin hoặc thay đổi nội dung trong các máy chủ được gọi là gì?",
+              "options": {
+                "A": "Kẻ lừa đảo",
+                "B": "Lập trình viên",
+                "C": "Tin tặc",
+                "D": "Tội phạm"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 219,
+              "question_text": "Giao thức nào là giao thức bảo mật?",
+              "options": {
+                "A": "http",
+                "B": "tcp",
+                "C": "ftp",
+                "D": "https"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 220,
+              "question_text": "URL là từ viết tắt của thuật ngữ nào dưới đây?",
+              "options": {
+                "A": "Universal Resource Location",
+                "B": "Universal Resource Locator",
+                "C": "Universal Review Locator",
+                "D": "Uniform Resource Locator",
+                "E": "Uniform Review Locator",
+                "F": "Uniform Resource Location"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 221,
+              "question_text": "Virus KHÔNG thể xâm nhập vào máy tính thông qua con đường nào?",
+              "options": {
+                "A": "Không khí",
+                "B": "Email",
+                "C": "Internet",
+                "D": "Dữ liệu"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 222,
+              "question_text": "Từ hay cụm từ bí mật được sử dụng để truy cập vào hệ thống máy tính được gọi là:",
+              "options": {
+                "A": "Mã hoá",
+                "B": "Tin tặc",
+                "C": "Mật khẩu",
+                "D": "Kẻ bẻ khoá"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 223,
+              "question_text": "Mạng máy tính là gì?",
+              "options": {
+                "A": "Tập hợp các máy tính được kết nối với nhau bằng các thiết bị mạng và tuân theo những tiêu chuẩn liên lạc",
+                "B": "Mạng nội bộ của cơ quan, tổ chức",
+                "C": "Tập hợp các máy tính",
+                "D": "Mạng Internet"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 224,
+              "question_text": "Phần mềm nào dưới đây không phải là trình duyệt web?",
+              "options": {
+                "A": "Cốc Cốc",
+                "B": "Safari",
+                "C": "Google Chrome",
+                "D": "Internet Explorer",
+                "E": "Mozilla Firefox",
+                "F": "Windows Explorer"
+              },
+              "answer": "F"
+            },
+            {
+              "question_number": 225,
+              "question_text": "Lệnh nào dưới đây được sử dụng để xem chi tiết thông tin cấu hình IP của máy tính?",
+              "options": {
+                "A": "Tracert",
+                "B": "Ping",
+                "C": "Nestat",
+                "D": "Ipconfig",
+                "E": "Nslookup"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 226,
+              "question_text": "Internet do ai quản lý?",
+              "options": {
+                "A": "Một tổ chức tư nhân quản lí",
+                "B": "Một tổ chức quốc tế quản lí",
+                "C": "Do nhiều tổ chức và quốc gia cùng quản lí",
+                "D": "Do một quốc gia quản lí"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 227,
+              "question_text": "Trang chủ của một website là gì?",
+              "options": {
+                "A": "Trang web chứa thông tin của người sở hữu website",
+                "B": "Trang web đầu tiên được tải về máy trạm khi website được truy cập",
+                "C": "Trang web hướng dẫn sử dụng website",
+                "D": "Địa chỉ chính thức của một website"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 228,
+              "question_text": "Chỉ ra phát biểu đúng về Internet",
+              "options": {
+                "A": "Là tập hợp phần cứng",
+                "B": "Gồm nhiều mạng nhỏ được kết nối với nhau",
+                "C": "Là mạng toàn cầu",
+                "D": "Là tập hợp phần mềm"
+              },
+              "answer": "B,C"
+            },
+            {
+              "question_number": 229,
+              "question_text": "Câu nào dưới đây là đúng về mạng diện rộng (WAN)?",
+              "options": {
+                "A": "WAN được hình thành khi kết nối nhiều LAN với nhau",
+                "B": "WAN bị giới hạn bởi hệ thống các cục bộ mà bạn đã cài đặt trong gia đình hoặc văn phòng",
+                "C": "WAN là mạng máy tính có tốc độ nhanh hơn LAN",
+                "D": "WAN thường bị giới hạn bởi 1 vùng diện tích nhỏ"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 230,
+              "question_text": "Hãy chọn phát biểu đúng về Internet và World Wide Web",
+              "options": {
+                "A": "Internet và World Wide Web là hai tên gọi khác nhau của hệ thống tài liệu được xem qua trình duyệt",
+                "B": "World Wide Web là hệ thống tài liệu, được liên kết với nhau trên hệ thống mạng máy tính Internet",
+                "C": "Internet là hệ thống tài liệu liên kết với nhau trên hệ thống mạng máy tính World Wide Web",
+                "D": "Internet là mạng các trang tài liệu được liên kết với nhau để hình thành World Wide Web",
+                "E": "World Wide Web là hệ thống bao gồm mạng máy tính Internet và các tài liệu trên mạng đó"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 231,
+              "question_text": "Ngôn ngữ sử dụng các ký hiệu để đặc tả các tài liệu đa phương tiện và được các trình duyệt đọc, hiển thị dưới dạng các trang web, được viết tắt là:",
+              "options": {
+                "A": "Internet Explorer",
+                "B": "Mosaic",
+                "C": "HTTP",
+                "D": "HTML",
+                "E": "Netscape"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 232,
+              "question_text": "HTTP là:",
+              "options": {
+                "A": "Giao thức để gửi và nhận thư điện tử",
+                "B": "Ngôn ngữ để tạo các tệp siêu văn bản",
+                "C": "Quy tắc để biên soạn các trang web",
+                "D": "Giao thức truyền các tệp siêu văn bản"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 233,
+              "question_text": "Chọn phát biểu phù hợp nhất về Malware",
+              "options": {
+                "A": "Phần mềm thu thập các thông tin cá nhân mà không có sự cho phép của người dùng",
+                "B": "Một chương trình phần mềm có khả năng nhân bản chính nó và có thể lây lan từ máy tính này sang máy tính khác qua hệ thống mạng",
+                "C": "Phần mềm độc hại, được thiết kế để thâm nhập và phá hỏng hệ thống máy tính mà không có sự thỏa thuận hay nhận biết của người dùng",
+                "D": "Là phần mềm tài chính nó vào một máy tính và theo dõi thói quen duyệt web của người dùng hay bật lên các quảng cáo trong khi máy tính đang sử dụng"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 234,
+              "question_text": "http://www.google.com là một ...",
+              "options": {
+                "A": "DNS",
+                "B": "IP",
+                "C": "TCP/IP",
+                "D": "URL"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 235,
+              "question_text": "Chữ cái \"s\" trong https viết tắt bởi từ nào?",
+              "options": {
+                "A": "serve",
+                "B": "service",
+                "C": "safe",
+                "D": "secure"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 236,
+              "question_text": "Sự khác nhau cơ bản giữa https và http là gì?",
+              "options": {
+                "A": "https hỗ trợ thêm bảo mật",
+                "B": "https hỗ trợ thanh toán online",
+                "C": "https hỗ trợ được nhiều tên miền",
+                "D": "https hỗ trợ các tiện ích trong trình duyệt"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 237,
+              "question_text": "Phát biểu nào sau đây là sai trên môi trường internet:",
+              "options": {
+                "A": "Bạn có thể download nhiều nội dung đã được số hóa ở trên internet mà không phải trả phí",
+                "B": "Virus không thể lây lan qua email",
+                "C": "Duyệt web có thể bị dính các mã độc"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 238,
+              "question_text": "Phần mở rộng tên miền nào dưới đây được gán cho các tổ chức thương mại, doanh nghiệp:",
+              "options": {
+                "A": "com",
+                "B": "net",
+                "C": "edu",
+                "D": "gov"
+              },
+              "answer": "A"
+            },
+            {
+              "question_number": 239,
+              "question_text": "Phần mở rộng tên miền .gov là dành cho tổ chức:",
+              "options": {
+                "A": "Tổ chức giáo dục",
+                "B": "Các tổ chức quân sự",
+                "C": "Các tổ chức thương mại",
+                "D": "Tổ chức chính phủ"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 240,
+              "question_text": "Nếu bạn sử dụng 1 cụm từ làm thuật ngữ tìm kiếm, điều nào dưới đây là đúng?",
+              "options": {
+                "A": "Máy tìm kiếm sẽ thông dịch khoảng trống giữa mỗi từ trong cụm từ thành toán tử boolean OR",
+                "B": "Máy tìm kiếm sẽ thông dịch khoảng trống giữa mỗi từ trong cụm từ thành toán tử boolean AND",
+                "C": "Máy tìm kiếm sẽ thông dịch khoảng trống giữa mỗi từ trong cụm từ thành toán tử boolean NOT",
+                "D": "Máy tìm kiếm sẽ từ chối cụm từ bởi vì bạn không thể sử dụng nhiều hơn 1 từ làm thuật ngữ tìm kiếm"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 241,
+              "question_text": "Để chuyển đổi các địa chỉ dạng chữ (VD: google.com) thành các địa chỉ dạng số (VD: 14.162.146.129), người ta sử dụng gì?",
+              "options": {
+                "A": "URL",
+                "B": "DNS",
+                "C": "Địa chỉ IP",
+                "D": "Tường lửa"
+              },
+              "answer": "B"
+            },
+            {
+              "question_number": 242,
+              "question_text": "POTS, ISDN và các đường dây thuê riêng có đặc điểm nào chung?",
+              "options": {
+                "A": "Tất cả đều là kết nối quay số",
+                "B": "Tất cả đều là kết nối trực tiếp",
+                "C": "Chúng đều sử dụng chuyển mạch gói",
+                "D": "Chúng đều sử dụng chuyển mạch vòng"
+              },
+              "answer": "D"
+            },
+            {
+              "question_number": 243,
+              "question_text": "Câu nào dưới đây mô tả chính xác về cổng vào ra mạng và tường lửa?",
+              "options": {
+                "A": "Cổng vào ra mạng bảo vệ các tài nguyên mạng, trong khi tường lửa bảo vệ các thông tin nhạy cảm",
+                "B": "Tường lửa bảo vệ các tài nguyên mạng trong khi cổng vào ra mạng bảo vệ các thông tin nhạy cảm",
+                "C": "Tường lửa sử dụng lọc gói dữ liệu để bảo vệ mạng; cổng vào ra mạng có thể sử dụng kĩ thuật lọc gói dữ liệu cũng như các kĩ thuật nâng cao để điều khiển dòng truyền tải dữ liệu",
+                "D": "Cổng vào ra mạng sử dụng lọc gói dữ liệu để bảo vệ mạng; tường lửa có thể sử dụng kĩ thuật lọc gói dữ liệu cũng như các kĩ thuật nâng cao để điều khiển dòng truyền tải dữ liệu"
+              },
+              "answer": "C"
+            },
+            {
+              "question_number": 244,
+              "question_text": "DDOS là viết tắt của hình thức tấn công mạng nào sau đây:",
+              "options": {
+                "A": "Tấn công truy nhập hệ thống, phá hủy và lấy cắp thông tin",
+                "B": "Thăm dò, thu thập thông tin",
+                "C": "Tấn công từ chối dịch vụ: tạo yêu cầu giả với số lượng quá lớn làm máy chủ quá tải",
+                "D": "Tất cả các đáp án trên"
+              },
+              "answer": "C"
+            }
+          ],
+        }
+      ]
+    }
