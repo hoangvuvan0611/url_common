@@ -26,7 +26,8 @@
   "locdsdoituongxemlichthi": "https://daotao.vnua.edu.vn/public/api/epm/w-locdsdoituongxemlichthi?is_dk_coi_thi=false",
   "loclichthitonghoptheodoituong": "https://daotao.vnua.edu.vn/public/api/epm/w-loclichthitonghoptheodoituong",
   "locdssinhvientheolichthihocky": "https://daotao.vnua.edu.vn/public/api/epm/w-locdssinhvientheolichthihocky",
-  "locdsdulieutheodoituonglichthi": "https://daotao.vnua.edu.vn/public/api/epm/w-locdsdulieutheodoituonglichthi"
+  "locdsdulieutheodoituonglichthi": "https://daotao.vnua.edu.vn/public/api/epm/w-locdsdulieutheodoituonglichthi",
+  "locdssinhvientheotohoc": "https://daotao.vnua.edu.vn/dkmh/api/sch/w-locdssinhvientheotohoc"
 }
 
 
