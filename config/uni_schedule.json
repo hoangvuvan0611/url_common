@@ -33,7 +33,8 @@
   "locdsmontienquyet": "https://daotao.vnua.edu.vn/dkmh/api/rms/w-locdsmontienquyet",
   "locdsdieukienloc": "https://daotao.vnua.edu.vn/dkmh/api/dkmh/w-locdsdieukienloc",
   "locdsnhomto": "https://daotao.vnua.edu.vn/dkmh/api/dkmh/w-locdsnhomto",
-  "locdskqdkmhsinhvien": "https://daotao.vnua.edu.vn/dkmh/api/dkmh/w-locdskqdkmhsinhvien"
+  "locdskqdkmhsinhvien": "https://daotao.vnua.edu.vn/dkmh/api/dkmh/w-locdskqdkmhsinhvien",
+  "locdsbaidangbyid": "https://daotao.vnua.edu.vn/public/api/web/w-locdsbaidangbyid"
 }
 
 
