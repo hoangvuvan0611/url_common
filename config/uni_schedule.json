@@ -6,7 +6,7 @@
   "filterScoreStudent": "https://daotao.vnua.edu.vn/api/srm/w-locdsdiemsinhvien?hien_thi_mon_theo_hkdk=false",
   "filterScheduleTestStudent": "https://daotao.vnua.edu.vn/api/epm/w-locdslichthisvtheohocky",
   "filterScheduleSemesterStudent": "https://daotao.vnua.edu.vn/api/sch/w-locdstkbtuanusertheohocky",
-  "filterNews": "https://daotao.vnua.edu.vn/public/api/web/w-locdsbaidangbykyhieu",
+  "filterNews": "https://daotao.vnua.edu.vn/public/api/web/w-locdsbaidang",
   "login": "https://unischedule.giavang.xyz/auth/login",
   "checkAndSaveDeviceInfoLogin": "https://unischedule.giavang.xyz/auth/checkAndSaveDeviceInfoLogin",
   "checkAndDeleteDeviceInfoLogin": "https://unischedule.giavang.xyz/auth/checkAndDeleteDeviceInfoLogin",
