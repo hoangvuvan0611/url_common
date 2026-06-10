@@ -35,7 +35,7 @@
   "locdsnhomto": "https://daotao.vnua.edu.vn/dkmh/api/dkmh/w-locdsnhomto",
   "locdskqdkmhsinhvien": "https://daotao.vnua.edu.vn/dkmh/api/dkmh/w-locdskqdkmhsinhvien",
   "locdsbaidangbyid": "https://daotao.vnua.edu.vn/public/api/web/w-locdsbaidangbyid",
-  "schoolMapPlaces: ""
+  "schoolMapPlaces": "https://raw.githubusercontent.com/hoangvuvan0611/url_common/refs/heads/main/config/schoolMapPlaces.json"
 }
 
 
