@@ -1,1 +1,229 @@
-
+{
+  "places": [
+    {
+      "name": "Giảng đường A",
+      "latitude": 21.00548417638189,
+      "longitude": 105.93390954992202
+    },
+    {
+      "name": "Giảng đường B",
+      "latitude": 21.004055410560028,
+      "longitude": 105.93212795881861
+    },
+    {
+      "name": "Giảng đường C",
+      "latitude": 21.003745391859542,
+      "longitude": 105.93351230755066
+    },
+    {
+      "name": "Giảng đường Nguyễn Đăng(NĐ)",
+      "latitude": 21.005956595501555,
+      "longitude": 105.93207594569425
+    },
+    {
+      "name": "Giảng đường Nguyễn Đăng(ND)",
+      "latitude": 21.005956595501555,
+      "longitude": 105.93207594569425
+    },
+    {
+      "name": "Giảng đường E",
+      "latitude": 21.007994749359952,
+      "longitude": 105.93250176197084
+    },
+    {
+      "name": "Giảng đường T",
+      "latitude": 21.00845786013791,
+      "longitude": 105.93437538548709
+    },
+    {
+      "name": "Giảng đường Trung tâm(TT)",
+      "latitude": 21.008939666341213,
+      "longitude": 105.93276946600095
+    },
+    {
+      "name": "Giảng đường Cơ Điện(CĐ)",
+      "latitude": 21.007454326053978,
+      "longitude": 105.93398596829937
+    },
+    {
+      "name": "Giảng đường Quân sự(QS)",
+      "latitude": 21.007454326053978,
+      "longitude": 105.93398596829937
+    },
+    {
+      "name": "Hội trường Trung Tâm(HTTT)",
+      "latitude": 21.013485798086275,
+      "longitude": 105.93237970675798
+    },
+    {
+      "name": "Hội trường C(HT-C)",
+      "latitude": 21.0053708029615,
+      "longitude": 105.93141446941752
+    },
+    {
+      "name": "Hội trường B(HT-B)",
+      "latitude": 21.0053708029615,
+      "longitude": 105.93141446941752
+    },
+    {
+      "name": "Hội trường A(HT-A)",
+      "latitude": 21.006130252489168,
+      "longitude": 105.9317547842965
+    },
+    {
+      "name": "Trung tâm Tin học",
+      "latitude": 21.006114413702196,
+      "longitude": 105.93359305203771
+    },
+    {
+      "name": "Trung tâm Kĩ Năng Mềm",
+      "latitude": 21.006114413702196,
+      "longitude": 105.93359305203771
+    },
+    {
+      "name": "Nhà thể chất(SAN)",
+      "latitude": 21.004770894146702,
+      "longitude": 105.93557770440177
+    },
+    {
+      "name": "Sân vận động(SAN)",
+      "latitude": 21.00428324787148,
+      "longitude": 105.93658945962922
+    },
+    {
+      "name": "Thư viện",
+      "latitude": 21.00295216885203,
+      "longitude": 105.93480024005866
+    },
+    {
+      "name": "Khoa Tài Nguyên và Môi Trường",
+      "latitude": 21.00833944779098,
+      "longitude": 105.93266909969556
+    },
+    {
+      "name": "Khoa Công Nghệ Thực Phẩm",
+      "latitude": 21.00677623907357,
+      "longitude": 105.93256234919942
+    },
+    {
+      "name": "Khoa Du lịch và Ngoại ngữ(DLNN)",
+      "latitude": 21.017333124627953,
+      "longitude": 105.93355592521475
+    },
+    {
+      "name": "Khoa Thú Y",
+      "latitude": 21.017438918807883,
+      "longitude": 105.93534125475261
+    },
+    {
+      "name": "Khoa Thuỷ sản",
+      "latitude": 21.017944993939107,
+      "longitude": 105.93247709711498
+    },
+    {
+      "name": "Khoa Chăn nuôi",
+      "latitude": 21.015281462079564,
+      "longitude": 105.92751448879982
+    },
+    {
+      "name": "Khoa Công nghệ thông tin",
+      "latitude": 21.004983484515485,
+      "longitude": 105.93174298560069
+    },
+    {
+      "name": "Ban Quản lý Đào Tạo",
+      "latitude": 21.012401038269086,
+      "longitude": 105.9318719476205
+    },
+    {
+      "name": "Toà nhà Trung Tâm",
+      "latitude": 21.01273354157154,
+      "longitude": 105.93222055836998
+    },
+    {
+      "name": "Bệnh Viện Thú Y",
+      "latitude": 21.018288145590592,
+      "longitude": 105.93386261073029
+    },
+    {
+      "name": "Trung tâm nghiên cứu xuất sắc và đổi mới sáng tạo",
+      "latitude": 21.01105093996179,
+      "longitude": 105.92947331069746
+    },
+    {
+      "name": "Văn phòng Khoa CNSH và Viện Sinh học Nông nghiệp",
+      "latitude": 21.00416772251674,
+      "longitude": 105.93189453002539
+    },
+    {
+      "name": "Văn phòng Hội Sinh viên",
+      "latitude": 21.003922817587664,
+      "longitude": 105.93446507241302
+    },
+    {
+      "name": "Hồ Tình yêu",
+      "latitude": 21.00515108673962,
+      "longitude": 105.93250790325932
+    },
+    {
+      "name": "Hồ Tình bạn",
+      "latitude": 21.005025984699362,
+      "longitude": 105.93323612671482
+    },
+    {
+      "name": "Hồ Hi Vọng",
+      "latitude": 21.00441657338532,
+      "longitude": 105.93240556988684
+    },
+    {
+      "name": "Hồ Tuyệt Vọng",
+      "latitude": 21.004340396796078,
+      "longitude": 105.93320115590102
+    },
+    {
+      "name": "Kí túc xá A2",
+      "latitude": 21.003365030463712,
+      "longitude": 105.9353743451829
+    },
+    {
+      "name": "Kí túc xá B3",
+      "latitude": 21.002744429259504,
+      "longitude": 105.93544458477535
+    },
+    {
+      "name": "Kí túc xá B4",
+      "latitude": 21.00254302605155,
+      "longitude": 105.93616203193059
+    },
+    {
+      "name": "Kí túc xá C1",
+      "latitude": 21.002115570880722,
+      "longitude": 105.93775563486105
+    },
+    {
+      "name": "Kí túc xá C2",
+      "latitude": 21.00250972811268,
+      "longitude": 105.93701830540533
+    },
+    {
+      "name": "Kí túc xá C3",
+      "latitude": 21.001925235343865,
+      "longitude": 105.93717321846597
+    },
+    {
+      "name": "Kí túc xá C4",
+      "latitude": 21.001490725989118,
+      "longitude": 105.9368587521636
+    },
+    {
+      "name": "Kí túc xá C5",
+      "latitude": 21.001361703975032,
+      "longitude": 105.93739364742777
+    },
+    {
+      "name": "Nhà ăn sinh viên",
+      "latitude": 21.002006353647296,
+      "longitude": 105.93674325392051
+    }
+  ]
+}
